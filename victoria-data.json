@@ -1,0 +1,3838 @@
+[
+  {
+    "latitude": -37.754,
+    "local_government_area": "City of Banyule",
+    "longitude": 145.045,
+    "postcode": 3081,
+    "suburb": "Bellfield, Victoria"
+  },
+  {
+    "latitude": -38.267,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.567,
+    "postcode": 3984,
+    "suburb": "Lang Lang, Victoria"
+  },
+  {
+    "latitude": -38.148,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.53,
+    "postcode": 3891,
+    "suburb": "Koo Wee Rup North, Victoria"
+  },
+  {
+    "latitude": -38.206,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.554,
+    "postcode": 3984,
+    "suburb": "Monomeith, Victoria"
+  },
+  {
+    "latitude": -38.25,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.65,
+    "postcode": 3894,
+    "suburb": "Lang Lang East, Victoria"
+  },
+  {
+    "latitude": -38.032,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.602,
+    "postcode": 3812,
+    "suburb": "Maryknoll, Victoria"
+  },
+  {
+    "latitude": -38.198,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.489,
+    "postcode": 3981,
+    "suburb": "Koo Wee Rup, Victoria"
+  },
+  {
+    "latitude": -37.983,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.5,
+    "postcode": 3781,
+    "suburb": "Mount Burnett, Victoria"
+  },
+  {
+    "latitude": -38.183,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.717,
+    "postcode": 3816,
+    "suburb": "Modella, Victoria"
+  },
+  {
+    "latitude": -38.1,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.76667,
+    "postcode": 3816,
+    "suburb": "Longwarry, Victoria"
+  },
+  {
+    "latitude": -37.931,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.398,
+    "postcode": 3159,
+    "suburb": "Menzies Creek, Victoria"
+  },
+  {
+    "latitude": -38.244,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.692,
+    "postcode": 3981,
+    "suburb": "Heath Hill, Victoria"
+  },
+  {
+    "latitude": -38.15,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.683,
+    "postcode": 3815,
+    "suburb": "Iona, Victoria"
+  },
+  {
+    "latitude": -38.017,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.386,
+    "postcode": 3807,
+    "suburb": "Guys Hill, Victoria"
+  },
+  {
+    "latitude": -37.95,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.541,
+    "postcode": 3783,
+    "suburb": "Gembrook, Victoria"
+  },
+  {
+    "latitude": -38.05,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.683,
+    "postcode": 3814,
+    "suburb": "Garfield North, Victoria"
+  },
+  {
+    "latitude": -37.706,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.382,
+    "postcode": 3770,
+    "suburb": "Yering, Victoria"
+  },
+  {
+    "latitude": -37.81,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.51,
+    "postcode": 3139,
+    "suburb": "Yellingbo, Victoria"
+  },
+  {
+    "latitude": -37.779,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.606,
+    "postcode": 3797,
+    "suburb": "Yarra Junction, Victoria"
+  },
+  {
+    "latitude": -37.64889,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.37194,
+    "postcode": 3775,
+    "suburb": "Yarra Glen, Victoria"
+  },
+  {
+    "latitude": -37.769,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.411,
+    "postcode": 3139,
+    "suburb": "Wandin North, Victoria"
+  },
+  {
+    "latitude": -37.811,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.453,
+    "postcode": 3139,
+    "suburb": "Wandin East, Victoria"
+  },
+  {
+    "latitude": -37.88,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.324,
+    "postcode": 3785,
+    "suburb": "Tremont, Victoria"
+  },
+  {
+    "latitude": -37.778,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.528,
+    "postcode": 3139,
+    "suburb": "Woori Yallock, Victoria"
+  },
+  {
+    "latitude": -37.767,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.647,
+    "postcode": 3799,
+    "suburb": "Wesburn, Victoria"
+  },
+  {
+    "latitude": -37.733,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.733,
+    "postcode": 3799,
+    "suburb": "Warburton East, Victoria"
+  },
+  {
+    "latitude": -37.755,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.697,
+    "postcode": 3799,
+    "suburb": "Warburton, Victoria"
+  },
+  {
+    "latitude": -37.783,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 146.117,
+    "postcode": 3833,
+    "suburb": "Toorongo, Victoria"
+  },
+  {
+    "latitude": -37.657,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.424,
+    "postcode": 3775,
+    "suburb": "Tarrawarra, Victoria"
+  },
+  {
+    "latitude": -37.824,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.421,
+    "postcode": 3795,
+    "suburb": "Silvan, Victoria"
+  },
+  {
+    "latitude": -37.885,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.36,
+    "postcode": 3789,
+    "suburb": "Sherbrooke, Victoria"
+  },
+  {
+    "latitude": -37.774,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.491,
+    "postcode": 3139,
+    "suburb": "Seville East, Victoria"
+  },
+  {
+    "latitude": -37.833,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.683,
+    "postcode": 3797,
+    "suburb": "Three Bridges, Victoria"
+  },
+  {
+    "latitude": -37.894,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.393,
+    "postcode": 3792,
+    "suburb": "The Patch, Victoria"
+  },
+  {
+    "latitude": -37.594,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.374,
+    "postcode": 3775,
+    "suburb": "Steels Creek, Victoria"
+  },
+  {
+    "latitude": -37.777,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.461,
+    "postcode": 3139,
+    "suburb": "Seville, Victoria"
+  },
+  {
+    "latitude": -37.65,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.867,
+    "postcode": 3799,
+    "suburb": "Reefton, Victoria"
+  },
+  {
+    "latitude": -37.87,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.35389,
+    "postcode": 3787,
+    "suburb": "Sassafras, Victoria"
+  },
+  {
+    "latitude": -37.865,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.753,
+    "postcode": 3797,
+    "suburb": "Powelltown, Victoria"
+  },
+  {
+    "latitude": -37.85599,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.364357,
+    "postcode": 3788,
+    "suburb": "Olinda, Victoria"
+  },
+  {
+    "latitude": -37.961,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.367,
+    "postcode": 3804,
+    "suburb": "Narre Warren East, Victoria"
+  },
+  {
+    "latitude": -37.702,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.572,
+    "postcode": 3777,
+    "suburb": "Mount Toolebewong, Victoria"
+  },
+  {
+    "latitude": -37.83111,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.36,
+    "postcode": 3767,
+    "suburb": "Mount Dandenong, Victoria"
+  },
+  {
+    "latitude": -37.878,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.411,
+    "postcode": 3793,
+    "suburb": "Monbulk, Victoria"
+  },
+  {
+    "latitude": -37.753,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.652,
+    "postcode": 3799,
+    "suburb": "Millgrove, Victoria"
+  },
+  {
+    "latitude": -37.7,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.833,
+    "postcode": 3799,
+    "suburb": "McMahons Creek, Victoria"
+  },
+  {
+    "latitude": -37.883,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.477,
+    "postcode": 3782,
+    "suburb": "Macclesfield, Victoria"
+  },
+  {
+    "latitude": -37.774,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.588,
+    "postcode": 3139,
+    "suburb": "Launching Place, Victoria"
+  },
+  {
+    "latitude": -37.818,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.366,
+    "postcode": 3766,
+    "suburb": "Kalorama, Victoria"
+  },
+  {
+    "latitude": -37.6,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 146.217,
+    "postcode": 3723,
+    "suburb": "Matlock, Victoria"
+  },
+  {
+    "latitude": -37.883,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.372,
+    "postcode": 3791,
+    "suburb": "Kallista, Victoria"
+  },
+  {
+    "latitude": -37.833,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.583,
+    "postcode": 3139,
+    "suburb": "Hoddles Creek, Victoria"
+  },
+  {
+    "latitude": -37.734,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.45,
+    "postcode": 3770,
+    "suburb": "Gruyere, Victoria"
+  },
+  {
+    "latitude": -37.817,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.65,
+    "postcode": 3797,
+    "suburb": "Gladysdale, Victoria"
+  },
+  {
+    "latitude": -37.85,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.717,
+    "postcode": 3797,
+    "suburb": "Gilderoy, Victoria"
+  },
+  {
+    "latitude": -37.633,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.717,
+    "postcode": 3778,
+    "suburb": "Fernshaw, Victoria"
+  },
+  {
+    "latitude": -37.76139,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.58444,
+    "postcode": 3139,
+    "suburb": "Don Valley, Victoria"
+  },
+  {
+    "latitude": -37.6,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.417,
+    "postcode": 3775,
+    "suburb": "Dixons Creek, Victoria"
+  },
+  {
+    "latitude": -37.65611,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.51389,
+    "postcode": 3777,
+    "suburb": "Healesville, Victoria"
+  },
+  {
+    "latitude": -37.878,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.335,
+    "postcode": 3786,
+    "suburb": "Ferny Creek, Victoria"
+  },
+  {
+    "latitude": -37.734,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.383,
+    "postcode": 3770,
+    "suburb": "Coldstream, Victoria"
+  },
+  {
+    "latitude": -37.85,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.7,
+    "postcode": 3139,
+    "suburb": "Beenak, Victoria"
+  },
+  {
+    "latitude": -37.685,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.538,
+    "postcode": 3777,
+    "suburb": "Badger Creek, Victoria"
+  },
+  {
+    "latitude": -37.903,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.33,
+    "postcode": 3158,
+    "suburb": "Upwey, Victoria"
+  },
+  {
+    "latitude": -37.606,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.488,
+    "postcode": 3777,
+    "suburb": "Chum Creek, Victoria"
+  },
+  {
+    "latitude": -37.567,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.9,
+    "postcode": 3779,
+    "suburb": "Cambarville, Victoria"
+  },
+  {
+    "latitude": -37.906,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.344,
+    "postcode": 3160,
+    "suburb": "Tecoma, Victoria"
+  },
+  {
+    "latitude": -37.767,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.767,
+    "postcode": 3799,
+    "suburb": "Big Pats Creek, Victoria"
+  },
+  {
+    "latitude": -37.914,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.369,
+    "postcode": 3159,
+    "suburb": "Selby, Victoria"
+  },
+  {
+    "latitude": -37.783,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.385,
+    "postcode": 3796,
+    "suburb": "Mount Evelyn, Victoria"
+  },
+  {
+    "latitude": -37.81,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.343,
+    "postcode": 3765,
+    "suburb": "Montrose, Victoria"
+  },
+  {
+    "latitude": -37.758,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.35,
+    "postcode": 3140,
+    "suburb": "Lilydale, Victoria"
+  },
+  {
+    "latitude": -37.802,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.316,
+    "postcode": 3137,
+    "suburb": "Kilsyth, Victoria"
+  },
+  {
+    "latitude": -37.754,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.327,
+    "postcode": 3116,
+    "suburb": "Chirnside Park, Victoria"
+  },
+  {
+    "latitude": -37.94,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.356,
+    "postcode": 3160,
+    "suburb": "Belgrave South, Victoria"
+  },
+  {
+    "latitude": -37.785,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.315,
+    "postcode": 3138,
+    "suburb": "Mooroolbark, Victoria"
+  },
+  {
+    "latitude": -37.923,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.34,
+    "postcode": 3160,
+    "suburb": "Belgrave Heights, Victoria"
+  },
+  {
+    "latitude": -37.912067,
+    "local_government_area": "Shire of Yarra Ranges",
+    "longitude": 145.3558,
+    "postcode": 3160,
+    "suburb": "Belgrave, Victoria"
+  },
+  {
+    "latitude": -37.789,
+    "local_government_area": "City of Yarra",
+    "longitude": 144.999,
+    "postcode": 3068,
+    "suburb": "Clifton Hill, Victoria"
+  },
+  {
+    "latitude": -37.784,
+    "local_government_area": "City of Yarra",
+    "longitude": 144.966,
+    "postcode": 3054,
+    "suburb": "Princes Hill, Victoria"
+  },
+  {
+    "latitude": -37.784,
+    "local_government_area": "City of Yarra",
+    "longitude": 144.986,
+    "postcode": 3068,
+    "suburb": "Fitzroy North, Victoria"
+  },
+  {
+    "latitude": -37.83,
+    "local_government_area": "City of Yarra",
+    "longitude": 144.993,
+    "postcode": 3121,
+    "suburb": "Cremorne, Victoria"
+  },
+  {
+    "latitude": -37.8019,
+    "local_government_area": "City of Yarra",
+    "longitude": 144.98815,
+    "postcode": 3066,
+    "suburb": "Collingwood, Victoria"
+  },
+  {
+    "latitude": -37.823,
+    "local_government_area": "City of Yarra",
+    "longitude": 144.998,
+    "postcode": 3121,
+    "suburb": "Richmond, Victoria"
+  },
+  {
+    "latitude": -37.80111,
+    "local_government_area": "City of Yarra",
+    "longitude": 144.97889,
+    "postcode": 3065,
+    "suburb": "Fitzroy, Victoria"
+  },
+  {
+    "latitude": -37.825,
+    "local_government_area": "City of Yarra",
+    "longitude": 145.012,
+    "postcode": 3121,
+    "suburb": "Burnley, Victoria"
+  },
+  {
+    "latitude": -37.845,
+    "local_government_area": "City of Wyndham",
+    "longitude": 144.522,
+    "postcode": 3340,
+    "suburb": "Quandong, Victoria"
+  },
+  {
+    "latitude": -37.912,
+    "local_government_area": "City of Wyndham",
+    "longitude": 144.549,
+    "postcode": 3024,
+    "suburb": "Mambourin, Victoria"
+  },
+  {
+    "latitude": -37.858,
+    "local_government_area": "City of Wyndham",
+    "longitude": 144.739,
+    "postcode": 3027,
+    "suburb": "Williams Landing, Victoria"
+  },
+  {
+    "latitude": -37.933,
+    "local_government_area": "City of Wyndham",
+    "longitude": 144.5,
+    "postcode": 3211,
+    "suburb": "Little River, Victoria"
+  },
+  {
+    "latitude": -37.967,
+    "local_government_area": "City of Wyndham",
+    "longitude": 144.622,
+    "postcode": 3030,
+    "suburb": "Cocoroc, Victoria"
+  },
+  {
+    "latitude": -37.89,
+    "local_government_area": "City of Wyndham",
+    "longitude": 144.63,
+    "postcode": 3024,
+    "suburb": "Wyndham Vale, Victoria"
+  },
+  {
+    "latitude": -37.803,
+    "local_government_area": "City of Yarra",
+    "longitude": 145.002,
+    "postcode": 3067,
+    "suburb": "Abbotsford, Victoria"
+  },
+  {
+    "latitude": -37.937,
+    "local_government_area": "City of Wyndham",
+    "longitude": 144.697,
+    "postcode": 3030,
+    "suburb": "Werribee South, Victoria"
+  },
+  {
+    "latitude": -37.873,
+    "local_government_area": "City of Wyndham",
+    "longitude": 144.582,
+    "postcode": 3024,
+    "suburb": "Manor Lakes, Victoria"
+  },
+  {
+    "latitude": -37.833,
+    "local_government_area": "City of Wyndham",
+    "longitude": 144.672,
+    "postcode": 3029,
+    "suburb": "Tarneit, Victoria"
+  },
+  {
+    "latitude": -37.909,
+    "local_government_area": "City of Wyndham",
+    "longitude": 144.752,
+    "postcode": 3030,
+    "suburb": "Point Cook, Victoria"
+  },
+  {
+    "latitude": -37.83,
+    "local_government_area": "City of Wyndham",
+    "longitude": 144.785,
+    "postcode": 3026,
+    "suburb": "Laverton North, Victoria"
+  },
+  {
+    "latitude": -37.869,
+    "local_government_area": "City of Wyndham",
+    "longitude": 144.693,
+    "postcode": 3029,
+    "suburb": "Hoppers Crossing, Victoria"
+  },
+  {
+    "latitude": -37.544,
+    "local_government_area": "City of Whittlesea",
+    "longitude": 145.056,
+    "postcode": 3755,
+    "suburb": "Woodstock, Victoria"
+  },
+  {
+    "latitude": -37.9,
+    "local_government_area": "City of Wyndham",
+    "longitude": 144.664,
+    "postcode": 3030,
+    "suburb": "Werribee, Victoria"
+  },
+  {
+    "latitude": -37.597,
+    "local_government_area": "City of Whittlesea",
+    "longitude": 145.033,
+    "postcode": 3750,
+    "suburb": "Wollert, Victoria"
+  },
+  {
+    "latitude": -37.51389,
+    "local_government_area": "City of Whittlesea",
+    "longitude": 145.11389,
+    "postcode": 3757,
+    "suburb": "Whittlesea, Victoria"
+  },
+  {
+    "latitude": -37.497,
+    "local_government_area": "City of Whittlesea",
+    "longitude": 145.175,
+    "postcode": 3757,
+    "suburb": "Humevale, Victoria"
+  },
+  {
+    "latitude": -37.489,
+    "local_government_area": "City of Whittlesea",
+    "longitude": 145.07,
+    "postcode": 3757,
+    "suburb": "Eden Park, Victoria"
+  },
+  {
+    "latitude": -37.483,
+    "local_government_area": "City of Whittlesea",
+    "longitude": 144.983,
+    "postcode": 3753,
+    "suburb": "Beveridge, Victoria"
+  },
+  {
+    "latitude": -37.682,
+    "local_government_area": "City of Whittlesea",
+    "longitude": 145.014,
+    "postcode": 3074,
+    "suburb": "Thomastown, Victoria"
+  },
+  {
+    "latitude": -37.633,
+    "local_government_area": "City of Whittlesea",
+    "longitude": 145.083,
+    "postcode": 3752,
+    "suburb": "South Morang, Victoria"
+  },
+  {
+    "latitude": -37.671,
+    "local_government_area": "City of Whittlesea",
+    "longitude": 145.062,
+    "postcode": 3082,
+    "suburb": "Mill Park, Victoria"
+  },
+  {
+    "latitude": -37.609,
+    "local_government_area": "City of Whittlesea",
+    "longitude": 145.093,
+    "postcode": 3754,
+    "suburb": "Mernda, Victoria"
+  },
+  {
+    "latitude": -37.667,
+    "local_government_area": "City of Whittlesea",
+    "longitude": 145.02,
+    "postcode": 3075,
+    "suburb": "Lalor, Victoria"
+  },
+  {
+    "latitude": -37.842,
+    "local_government_area": "City of Whitehorse",
+    "longitude": 145.172,
+    "postcode": 3131,
+    "suburb": "Forest Hill, Victoria"
+  },
+  {
+    "latitude": -37.851,
+    "local_government_area": "City of Whitehorse",
+    "longitude": 145.183,
+    "postcode": 3133,
+    "suburb": "Vermont South, Victoria"
+  },
+  {
+    "latitude": -37.838,
+    "local_government_area": "City of Whitehorse",
+    "longitude": 145.198,
+    "postcode": 3133,
+    "suburb": "Vermont, Victoria"
+  },
+  {
+    "latitude": -37.818,
+    "local_government_area": "City of Whitehorse",
+    "longitude": 145.197,
+    "postcode": 3132,
+    "suburb": "Mitcham, Victoria"
+  },
+  {
+    "latitude": -37.852,
+    "local_government_area": "City of Whitehorse",
+    "longitude": 145.15,
+    "postcode": 3151,
+    "suburb": "Burwood East, Victoria"
+  },
+  {
+    "latitude": -37.638,
+    "local_government_area": "City of Whittlesea",
+    "longitude": 145.01,
+    "postcode": 3076,
+    "suburb": "Epping, Victoria"
+  },
+  {
+    "latitude": -37.836,
+    "local_government_area": "City of Whitehorse",
+    "longitude": 145.124,
+    "postcode": 3128,
+    "suburb": "Box Hill South, Victoria"
+  },
+  {
+    "latitude": -37.807,
+    "local_government_area": "City of Whitehorse",
+    "longitude": 145.12,
+    "postcode": 3129,
+    "suburb": "Box Hill North, Victoria"
+  },
+  {
+    "latitude": -37.854,
+    "local_government_area": "City of Stonnington",
+    "longitude": 144.988,
+    "postcode": 3181,
+    "suburb": "Windsor, Victoria"
+  },
+  {
+    "latitude": -37.838,
+    "local_government_area": "City of Whitehorse",
+    "longitude": 145.144,
+    "postcode": 3130,
+    "suburb": "Blackburn South, Victoria"
+  },
+  {
+    "latitude": -37.81,
+    "local_government_area": "City of Whitehorse",
+    "longitude": 145.152,
+    "postcode": 3130,
+    "suburb": "Blackburn North, Victoria"
+  },
+  {
+    "latitude": -37.826,
+    "local_government_area": "City of Whitehorse",
+    "longitude": 145.151,
+    "postcode": 3130,
+    "suburb": "Blackburn, Victoria"
+  },
+  {
+    "latitude": -37.8215,
+    "local_government_area": "City of Whitehorse",
+    "longitude": 145.126,
+    "postcode": 3128,
+    "suburb": "Box Hill, Victoria"
+  },
+  {
+    "latitude": -37.841,
+    "local_government_area": "City of Stonnington",
+    "longitude": 145.018,
+    "postcode": 3142,
+    "suburb": "Toorak, Victoria"
+  },
+  {
+    "latitude": -37.878,
+    "local_government_area": "City of Stonnington",
+    "longitude": 145.06,
+    "postcode": 3145,
+    "suburb": "Malvern East, Victoria"
+  },
+  {
+    "latitude": -37.852,
+    "local_government_area": "City of Stonnington",
+    "longitude": 144.998,
+    "postcode": 3181,
+    "suburb": "Prahran, Victoria"
+  },
+  {
+    "latitude": -37.84194,
+    "local_government_area": "City of Stonnington",
+    "longitude": 145.035,
+    "postcode": 3144,
+    "suburb": "Kooyong, Victoria"
+  },
+  {
+    "latitude": -37.857,
+    "local_government_area": "City of Stonnington",
+    "longitude": 145.036,
+    "postcode": 3144,
+    "suburb": "Malvern, Victoria"
+  },
+  {
+    "latitude": -37.857,
+    "local_government_area": "City of Stonnington",
+    "longitude": 145.021,
+    "postcode": 3143,
+    "suburb": "Armadale, Victoria"
+  },
+  {
+    "latitude": -37.835,
+    "local_government_area": "City of Port Phillip",
+    "longitude": 144.96,
+    "postcode": 3205,
+    "suburb": "South Melbourne, Victoria"
+  },
+  {
+    "latitude": -37.8604,
+    "local_government_area": "City of Port Phillip",
+    "longitude": 144.9732,
+    "postcode": 3182,
+    "suburb": "St Kilda West, Victoria"
+  },
+  {
+    "latitude": -37.88,
+    "local_government_area": "City of Port Phillip",
+    "longitude": 144.999,
+    "postcode": 3185,
+    "suburb": "Ripponlea, Victoria"
+  },
+  {
+    "latitude": -37.85194,
+    "local_government_area": "City of Port Phillip",
+    "longitude": 144.96306,
+    "postcode": 3206,
+    "suburb": "Middle Park, Victoria"
+  },
+  {
+    "latitude": -37.864,
+    "local_government_area": "City of Port Phillip",
+    "longitude": 144.982,
+    "postcode": 3182,
+    "suburb": "St Kilda, Victoria"
+  },
+  {
+    "latitude": -37.884,
+    "local_government_area": "City of Port Phillip",
+    "longitude": 144.986,
+    "postcode": 3184,
+    "suburb": "Elwood, Victoria"
+  },
+  {
+    "latitude": -37.873,
+    "local_government_area": "City of Port Phillip",
+    "longitude": 144.993,
+    "postcode": 3183,
+    "suburb": "Balaclava, Victoria"
+  },
+  {
+    "latitude": -37.67,
+    "local_government_area": "Shire of Nillumbik",
+    "longitude": 145.258,
+    "postcode": 3097,
+    "suburb": "Watsons Creek, Victoria"
+  },
+  {
+    "latitude": -37.533,
+    "local_government_area": "Shire of Nillumbik",
+    "longitude": 145.467,
+    "postcode": 3777,
+    "suburb": "Toolangi, Victoria"
+  },
+  {
+    "latitude": -37.64,
+    "local_government_area": "Shire of Nillumbik",
+    "longitude": 145.133,
+    "postcode": 3091,
+    "suburb": "Yarrambat, Victoria"
+  },
+  {
+    "latitude": -37.571,
+    "local_government_area": "Shire of Nillumbik",
+    "longitude": 145.108,
+    "postcode": 3755,
+    "suburb": "Yan Yean, Victoria"
+  },
+  {
+    "latitude": -37.55,
+    "local_government_area": "Shire of Nillumbik",
+    "longitude": 145.267,
+    "postcode": 3099,
+    "suburb": "Strathewen, Victoria"
+  },
+  {
+    "latitude": -37.842,
+    "local_government_area": "City of Port Phillip",
+    "longitude": 144.95,
+    "postcode": 3206,
+    "suburb": "Albert Park, Victoria"
+  },
+  {
+    "latitude": -37.619,
+    "local_government_area": "Shire of Nillumbik",
+    "longitude": 145.256,
+    "postcode": 3760,
+    "suburb": "Smiths Gully, Victoria"
+  },
+  {
+    "latitude": -37.594,
+    "local_government_area": "Shire of Nillumbik",
+    "longitude": 145.269,
+    "postcode": 3761,
+    "suburb": "St Andrews, Victoria"
+  },
+  {
+    "latitude": -37.669,
+    "local_government_area": "Shire of Nillumbik",
+    "longitude": 145.117,
+    "postcode": 3090,
+    "suburb": "Plenty, Victoria"
+  },
+  {
+    "latitude": -37.643,
+    "local_government_area": "Shire of Nillumbik",
+    "longitude": 145.239,
+    "postcode": 3759,
+    "suburb": "Panton Hill, Victoria"
+  },
+  {
+    "latitude": -37.686,
+    "local_government_area": "Shire of Nillumbik",
+    "longitude": 145.216,
+    "postcode": 3097,
+    "suburb": "Kangaroo Ground, Victoria"
+  },
+  {
+    "latitude": -37.603,
+    "local_government_area": "Shire of Nillumbik",
+    "longitude": 145.181,
+    "postcode": 3099,
+    "suburb": "Nutfield, Victoria"
+  },
+  {
+    "latitude": -37.467,
+    "local_government_area": "Shire of Nillumbik",
+    "longitude": 145.233,
+    "postcode": 3778,
+    "suburb": "Kinglake West, Victoria"
+  },
+  {
+    "latitude": -37.53278,
+    "local_government_area": "Shire of Nillumbik",
+    "longitude": 145.34111,
+    "postcode": 3763,
+    "suburb": "Kinglake, Victoria"
+  },
+  {
+    "latitude": -37.605,
+    "local_government_area": "Shire of Nillumbik",
+    "longitude": 145.146,
+    "postcode": 3754,
+    "suburb": "Doreen, Victoria"
+  },
+  {
+    "latitude": -37.704,
+    "local_government_area": "Shire of Nillumbik",
+    "longitude": 145.267,
+    "postcode": 3097,
+    "suburb": "Bend of Islands, Victoria"
+  },
+  {
+    "latitude": -37.663,
+    "local_government_area": "Shire of Nillumbik",
+    "longitude": 145.183,
+    "postcode": 3096,
+    "suburb": "Wattle Glen, Victoria"
+  },
+  {
+    "latitude": -37.707,
+    "local_government_area": "Shire of Nillumbik",
+    "longitude": 145.18,
+    "postcode": 3095,
+    "suburb": "Research, Victoria"
+  },
+  {
+    "latitude": -37.726,
+    "local_government_area": "Shire of Nillumbik",
+    "longitude": 145.216,
+    "postcode": 3113,
+    "suburb": "North Warrandyte, Victoria"
+  },
+  {
+    "latitude": -37.62194,
+    "local_government_area": "Shire of Nillumbik",
+    "longitude": 145.21889,
+    "postcode": 3099,
+    "suburb": "Cottles Bridge, Victoria"
+  },
+  {
+    "latitude": -37.63889,
+    "local_government_area": "Shire of Nillumbik",
+    "longitude": 145.195,
+    "postcode": 3099,
+    "suburb": "Hurstbridge, Victoria"
+  },
+  {
+    "latitude": -37.671,
+    "local_government_area": "Shire of Nillumbik",
+    "longitude": 145.155,
+    "postcode": 3089,
+    "suburb": "Diamond Creek, Victoria"
+  },
+  {
+    "latitude": -37.64889,
+    "local_government_area": "Shire of Nillumbik",
+    "longitude": 145.28611,
+    "postcode": 3775,
+    "suburb": "Christmas Hills, Victoria"
+  },
+  {
+    "latitude": -38.427,
+    "local_government_area": "Shire of Mornington Peninsula",
+    "longitude": 145.05,
+    "postcode": 3916,
+    "suburb": "Shoreham, Victoria"
+  },
+  {
+    "latitude": -38.384,
+    "local_government_area": "Shire of Mornington Peninsula",
+    "longitude": 145.024,
+    "postcode": 3937,
+    "suburb": "Red Hill South, Victoria"
+  },
+  {
+    "latitude": -38.355,
+    "local_government_area": "Shire of Mornington Peninsula",
+    "longitude": 145.016,
+    "postcode": 3937,
+    "suburb": "Red Hill, Victoria"
+  },
+  {
+    "latitude": -38.421,
+    "local_government_area": "Shire of Mornington Peninsula",
+    "longitude": 145.075,
+    "postcode": 3916,
+    "suburb": "Point Leo, Victoria"
+  },
+  {
+    "latitude": -38.247,
+    "local_government_area": "Shire of Mornington Peninsula",
+    "longitude": 145.105,
+    "postcode": 3933,
+    "suburb": "Moorooduc, Victoria"
+  },
+  {
+    "latitude": -38.354,
+    "local_government_area": "Shire of Mornington Peninsula",
+    "longitude": 145.075,
+    "postcode": 3926,
+    "suburb": "Merricks North, Victoria"
+  },
+  {
+    "latitude": -38.3,
+    "local_government_area": "Shire of Mornington Peninsula",
+    "longitude": 145.105,
+    "postcode": 3915,
+    "suburb": "Tuerong, Victoria"
+  },
+  {
+    "latitude": -38.393,
+    "local_government_area": "Shire of Mornington Peninsula",
+    "longitude": 145.163,
+    "postcode": 3927,
+    "suburb": "Somers, Victoria"
+  },
+  {
+    "latitude": -38.39,
+    "local_government_area": "Shire of Mornington Peninsula",
+    "longitude": 145.089,
+    "postcode": 3916,
+    "suburb": "Merricks, Victoria"
+  },
+  {
+    "latitude": -38.413,
+    "local_government_area": "Shire of Mornington Peninsula",
+    "longitude": 144.888,
+    "postcode": 3939,
+    "suburb": "Boneo, Victoria"
+  },
+  {
+    "latitude": -38.398,
+    "local_government_area": "Shire of Mornington Peninsula",
+    "longitude": 145.106,
+    "postcode": 3926,
+    "suburb": "Merricks Beach, Victoria"
+  },
+  {
+    "latitude": -38.402,
+    "local_government_area": "Shire of Mornington Peninsula",
+    "longitude": 144.972,
+    "postcode": 3928,
+    "suburb": "Main Ridge, Victoria"
+  },
+  {
+    "latitude": -38.367,
+    "local_government_area": "Shire of Mornington Peninsula",
+    "longitude": 145.187,
+    "postcode": 3920,
+    "suburb": "HMAS Cerberus, Victoria"
+  },
+  {
+    "latitude": -38.474,
+    "local_government_area": "Shire of Mornington Peninsula",
+    "longitude": 145.022,
+    "postcode": 3929,
+    "suburb": "Flinders, Victoria"
+  },
+  {
+    "latitude": -38.42111,
+    "local_government_area": "Shire of Mornington Peninsula",
+    "longitude": 144.86111,
+    "postcode": 3939,
+    "suburb": "Fingal, Victoria"
+  },
+  {
+    "latitude": -38.461,
+    "local_government_area": "Shire of Mornington Peninsula",
+    "longitude": 144.905,
+    "postcode": 3939,
+    "suburb": "Cape Schanck, Victoria"
+  },
+  {
+    "latitude": -38.196,
+    "local_government_area": "Shire of Mornington Peninsula",
+    "longitude": 145.157,
+    "postcode": 3911,
+    "suburb": "Baxter, Victoria"
+  },
+  {
+    "latitude": -38.259,
+    "local_government_area": "Shire of Mornington Peninsula",
+    "longitude": 145.189,
+    "postcode": 3913,
+    "suburb": "Tyabb, Victoria"
+  },
+  {
+    "latitude": -38.226,
+    "local_government_area": "Shire of Mornington Peninsula",
+    "longitude": 145.177,
+    "postcode": 3912,
+    "suburb": "Somerville, Victoria"
+  },
+  {
+    "latitude": -38.306,
+    "local_government_area": "Shire of Mornington Peninsula",
+    "longitude": 145.189,
+    "postcode": 3915,
+    "suburb": "Hastings, Victoria"
+  },
+  {
+    "latitude": -38.363,
+    "local_government_area": "Shire of Mornington Peninsula",
+    "longitude": 145.202,
+    "postcode": 3919,
+    "suburb": "Crib Point, Victoria"
+  },
+  {
+    "latitude": -38.359,
+    "local_government_area": "Shire of Mornington Peninsula",
+    "longitude": 145.136,
+    "postcode": 3926,
+    "suburb": "Balnarring Beach, Victoria"
+  },
+  {
+    "latitude": -38.371,
+    "local_government_area": "Shire of Mornington Peninsula",
+    "longitude": 145.118,
+    "postcode": 3926,
+    "suburb": "Balnarring, Victoria"
+  },
+  {
+    "latitude": -38.352,
+    "local_government_area": "Shire of Mornington Peninsula",
+    "longitude": 144.953,
+    "postcode": 3936,
+    "suburb": "Arthurs Seat, Victoria"
+  },
+  {
+    "latitude": -38.374,
+    "local_government_area": "Shire of Mornington Peninsula",
+    "longitude": 144.849,
+    "postcode": 3941,
+    "suburb": "Tootgarook, Victoria"
+  },
+  {
+    "latitude": -38.33889,
+    "local_government_area": "Shire of Mornington Peninsula",
+    "longitude": 144.74083,
+    "postcode": 3943,
+    "suburb": "Sorrento, Victoria"
+  },
+  {
+    "latitude": -38.419,
+    "local_government_area": "Shire of Mornington Peninsula",
+    "longitude": 144.83,
+    "postcode": 3941,
+    "suburb": "St Andrews Beach, Victoria"
+  },
+  {
+    "latitude": -38.322,
+    "local_government_area": "Shire of Mornington Peninsula",
+    "longitude": 144.986,
+    "postcode": 3936,
+    "suburb": "Safety Beach, Victoria"
+  },
+  {
+    "latitude": -38.377,
+    "local_government_area": "Shire of Mornington Peninsula",
+    "longitude": 144.838,
+    "postcode": 3941,
+    "suburb": "Rye, Victoria"
+  },
+  {
+    "latitude": -38.356,
+    "local_government_area": "Shire of Mornington Peninsula",
+    "longitude": 144.918,
+    "postcode": 3939,
+    "suburb": "Rosebud, Victoria"
+  },
+  {
+    "latitude": -38.339,
+    "local_government_area": "Shire of Mornington Peninsula",
+    "longitude": 145.175,
+    "postcode": 3918,
+    "suburb": "Bittern, Victoria"
+  },
+  {
+    "latitude": -38.32,
+    "local_government_area": "Shire of Mornington Peninsula",
+    "longitude": 144.713,
+    "postcode": 3944,
+    "suburb": "Portsea, Victoria"
+  },
+  {
+    "latitude": -38.267,
+    "local_government_area": "Shire of Mornington Peninsula",
+    "longitude": 145.018,
+    "postcode": 3934,
+    "suburb": "Mount Martha, Victoria"
+  },
+  {
+    "latitude": -38.189,
+    "local_government_area": "Shire of Mornington Peninsula",
+    "longitude": 145.092,
+    "postcode": 3930,
+    "suburb": "Mount Eliza, Victoria"
+  },
+  {
+    "latitude": -38.228,
+    "local_government_area": "Shire of Mornington Peninsula",
+    "longitude": 145.062,
+    "postcode": 3931,
+    "suburb": "Mornington, Victoria"
+  },
+  {
+    "latitude": -38.351,
+    "local_government_area": "Shire of Mornington Peninsula",
+    "longitude": 144.922,
+    "postcode": 3938,
+    "suburb": "McCrae, Victoria"
+  },
+  {
+    "latitude": -38.338,
+    "local_government_area": "Shire of Mornington Peninsula",
+    "longitude": 144.965,
+    "postcode": 3936,
+    "suburb": "Dromana, Victoria"
+  },
+  {
+    "latitude": -38.377,
+    "local_government_area": "Shire of Mornington Peninsula",
+    "longitude": 144.872,
+    "postcode": 3940,
+    "suburb": "Capel Sound, Victoria"
+  },
+  {
+    "latitude": -38.36,
+    "local_government_area": "Shire of Mornington Peninsula",
+    "longitude": 144.769,
+    "postcode": 3942,
+    "suburb": "Blairgowrie, Victoria"
+  },
+  {
+    "latitude": -37.7431,
+    "local_government_area": "City of Moreland",
+    "longitude": 144.9377,
+    "postcode": 3044,
+    "suburb": "Pascoe Vale South, Victoria"
+  },
+  {
+    "latitude": -37.727,
+    "local_government_area": "City of Moreland",
+    "longitude": 144.942,
+    "postcode": 3044,
+    "suburb": "Pascoe Vale, Victoria"
+  },
+  {
+    "latitude": -37.718,
+    "local_government_area": "City of Moreland",
+    "longitude": 144.919,
+    "postcode": 3046,
+    "suburb": "Oak Park, Victoria"
+  },
+  {
+    "latitude": -37.71,
+    "local_government_area": "City of Moreland",
+    "longitude": 144.95,
+    "postcode": 3046,
+    "suburb": "Hadfield, Victoria"
+  },
+  {
+    "latitude": -37.702,
+    "local_government_area": "City of Moreland",
+    "longitude": 144.899,
+    "postcode": 3043,
+    "suburb": "Gowanbrae, Victoria"
+  },
+  {
+    "latitude": -37.706,
+    "local_government_area": "City of Moreland",
+    "longitude": 144.924,
+    "postcode": 3046,
+    "suburb": "Glenroy, Victoria"
+  },
+  {
+    "latitude": -37.707,
+    "local_government_area": "City of Moreland",
+    "longitude": 144.968,
+    "postcode": 3060,
+    "suburb": "Fawkner, Victoria"
+  },
+  {
+    "latitude": -37.726,
+    "local_government_area": "City of Moreland",
+    "longitude": 144.96,
+    "postcode": 3058,
+    "suburb": "Coburg North, Victoria"
+  },
+  {
+    "latitude": -37.7438,
+    "local_government_area": "City of Moreland",
+    "longitude": 144.9645,
+    "postcode": 3058,
+    "suburb": "Coburg, Victoria"
+  },
+  {
+    "latitude": -37.761,
+    "local_government_area": "City of Moreland",
+    "longitude": 144.943,
+    "postcode": 3055,
+    "suburb": "Brunswick West, Victoria"
+  },
+  {
+    "latitude": -37.776,
+    "local_government_area": "City of Moreland",
+    "longitude": 144.974,
+    "postcode": 3057,
+    "suburb": "Brunswick East, Victoria"
+  },
+  {
+    "latitude": -37.778,
+    "local_government_area": "City of Moonee Valley",
+    "longitude": 144.935,
+    "postcode": 3032,
+    "suburb": "Travancore, Victoria"
+  },
+  {
+    "latitude": -37.713,
+    "local_government_area": "City of Moonee Valley",
+    "longitude": 144.897,
+    "postcode": 3041,
+    "suburb": "Strathmore Heights, Victoria"
+  },
+  {
+    "latitude": -37.734,
+    "local_government_area": "City of Moonee Valley",
+    "longitude": 144.921,
+    "postcode": 3041,
+    "suburb": "Strathmore, Victoria"
+  },
+  {
+    "latitude": -37.745,
+    "local_government_area": "City of Moonee Valley",
+    "longitude": 144.886,
+    "postcode": 3042,
+    "suburb": "Niddrie, Victoria"
+  },
+  {
+    "latitude": -37.765,
+    "local_government_area": "City of Moonee Valley",
+    "longitude": 144.92,
+    "postcode": 3039,
+    "suburb": "Moonee Ponds, Victoria"
+  },
+  {
+    "latitude": -37.7667,
+    "local_government_area": "City of Moreland",
+    "longitude": 144.9628,
+    "postcode": 3056,
+    "suburb": "Brunswick, Victoria"
+  },
+  {
+    "latitude": -37.755,
+    "local_government_area": "City of Moonee Valley",
+    "longitude": 144.883,
+    "postcode": 3040,
+    "suburb": "Essendon West, Victoria"
+  },
+  {
+    "latitude": -37.734,
+    "local_government_area": "City of Moonee Valley",
+    "longitude": 144.921,
+    "postcode": 3041,
+    "suburb": "Essendon North, Victoria"
+  },
+  {
+    "latitude": -37.762,
+    "local_government_area": "City of Moonee Valley",
+    "longitude": 144.901,
+    "postcode": 3040,
+    "suburb": "Aberfeldie, Victoria"
+  },
+  {
+    "latitude": -37.728,
+    "local_government_area": "City of Moonee Valley",
+    "longitude": 144.9,
+    "postcode": 3041,
+    "suburb": "Essendon Fields, Victoria"
+  },
+  {
+    "latitude": -37.749,
+    "local_government_area": "City of Moonee Valley",
+    "longitude": 144.912,
+    "postcode": 3040,
+    "suburb": "Essendon, Victoria"
+  },
+  {
+    "latitude": -37.762,
+    "local_government_area": "City of Moonee Valley",
+    "longitude": 144.863,
+    "postcode": 3034,
+    "suburb": "Avondale Heights, Victoria"
+  },
+  {
+    "latitude": -37.779,
+    "local_government_area": "City of Moonee Valley",
+    "longitude": 144.919,
+    "postcode": 3032,
+    "suburb": "Ascot Vale, Victoria"
+  },
+  {
+    "latitude": -37.724,
+    "local_government_area": "City of Moonee Valley",
+    "longitude": 144.879,
+    "postcode": 3042,
+    "suburb": "Airport West, Victoria"
+  },
+  {
+    "latitude": -37.899,
+    "local_government_area": "City of Monash",
+    "longitude": 145.183,
+    "postcode": 3150,
+    "suburb": "Wheelers Hill, Victoria"
+  },
+  {
+    "latitude": -37.917,
+    "local_government_area": "City of Monash",
+    "longitude": 145.09,
+    "postcode": 3167,
+    "suburb": "Oakleigh South, Victoria"
+  },
+  {
+    "latitude": -37.896,
+    "local_government_area": "City of Monash",
+    "longitude": 145.112,
+    "postcode": 3166,
+    "suburb": "Oakleigh East, Victoria"
+  },
+  {
+    "latitude": -37.913,
+    "local_government_area": "City of Monash",
+    "longitude": 145.102,
+    "postcode": 3166,
+    "suburb": "Oakleigh, Victoria"
+  },
+  {
+    "latitude": -37.90417,
+    "local_government_area": "City of Monash",
+    "longitude": 145.14167,
+    "postcode": 3168,
+    "suburb": "Notting Hill, Victoria"
+  },
+  {
+    "latitude": -37.928,
+    "local_government_area": "City of Monash",
+    "longitude": 145.174,
+    "postcode": 3170,
+    "suburb": "Mulgrave, Victoria"
+  },
+  {
+    "latitude": -37.877,
+    "local_government_area": "City of Monash",
+    "longitude": 145.131,
+    "postcode": 3149,
+    "suburb": "Mount Waverley, Victoria"
+  },
+  {
+    "latitude": -37.9083,
+    "local_government_area": "City of Monash",
+    "longitude": 145.138,
+    "postcode": 3800,
+    "suburb": "Monash University, Victoria"
+  },
+  {
+    "latitude": -37.907,
+    "local_government_area": "City of Monash",
+    "longitude": 145.094,
+    "postcode": 3166,
+    "suburb": "Huntingdale, Victoria"
+  },
+  {
+    "latitude": -37.894,
+    "local_government_area": "City of Monash",
+    "longitude": 145.085,
+    "postcode": 3166,
+    "suburb": "Hughesdale, Victoria"
+  },
+  {
+    "latitude": -37.84,
+    "local_government_area": "City of Monash",
+    "longitude": 145.166,
+    "postcode": 3150,
+    "suburb": "Glen Waverley, Victoria"
+  },
+  {
+    "latitude": -37.915,
+    "local_government_area": "City of Monash",
+    "longitude": 145.13,
+    "postcode": 3168,
+    "suburb": "Clayton, Victoria"
+  },
+  {
+    "latitude": -37.883,
+    "local_government_area": "City of Monash",
+    "longitude": 145.093,
+    "postcode": 3148,
+    "suburb": "Chadstone, Victoria"
+  },
+  {
+    "latitude": -37.85,
+    "local_government_area": "City of Monash",
+    "longitude": 145.114,
+    "postcode": 3125,
+    "suburb": "Burwood, Victoria"
+  },
+  {
+    "latitude": -37.867,
+    "local_government_area": "City of Monash",
+    "longitude": 145.103,
+    "postcode": 3147,
+    "suburb": "Ashwood, Victoria"
+  },
+  {
+    "latitude": -37.72917,
+    "local_government_area": "City of Melton",
+    "longitude": 144.57083,
+    "postcode": 3338,
+    "suburb": "Weir Views, Victoria"
+  },
+  {
+    "latitude": -37.817,
+    "local_government_area": "City of Melton",
+    "longitude": 144.75,
+    "postcode": 3029,
+    "suburb": "Truganina, Victoria"
+  },
+  {
+    "latitude": -37.60806,
+    "local_government_area": "City of Melton",
+    "longitude": 144.59306,
+    "postcode": 3337,
+    "suburb": "Toolern Vale, Victoria"
+  },
+  {
+    "latitude": -37.72917,
+    "local_government_area": "City of Melton",
+    "longitude": 144.625,
+    "postcode": 3335,
+    "suburb": "Thornhill Park, Victoria"
+  },
+  {
+    "latitude": -37.715,
+    "local_government_area": "City of Melton",
+    "longitude": 144.751,
+    "postcode": 3037,
+    "suburb": "Taylors Hill, Victoria"
+  },
+  {
+    "latitude": -37.73472,
+    "local_government_area": "City of Melton",
+    "longitude": 144.59583,
+    "postcode": 3338,
+    "suburb": "Strathtulloh, Victoria"
+  },
+  {
+    "latitude": -37.733,
+    "local_government_area": "City of Melton",
+    "longitude": 144.667,
+    "postcode": 3335,
+    "suburb": "Rockbank, Victoria"
+  },
+  {
+    "latitude": -37.765,
+    "local_government_area": "City of Melton",
+    "longitude": 144.75,
+    "postcode": 3023,
+    "suburb": "Ravenhall, Victoria"
+  },
+  {
+    "latitude": -37.68806,
+    "local_government_area": "City of Melton",
+    "longitude": 144.66806,
+    "postcode": 3335,
+    "suburb": "Plumpton, Victoria"
+  },
+  {
+    "latitude": -37.68333,
+    "local_government_area": "City of Melton",
+    "longitude": 144.58333,
+    "postcode": 3337,
+    "suburb": "Melton, Victoria"
+  },
+  {
+    "latitude": -37.672,
+    "local_government_area": "City of Melton",
+    "longitude": 144.585,
+    "postcode": 3337,
+    "suburb": "Kurunjang, Victoria"
+  },
+  {
+    "latitude": -37.65417,
+    "local_government_area": "City of Melton",
+    "longitude": 144.54583,
+    "postcode": 3337,
+    "suburb": "Harkness, Victoria"
+  },
+  {
+    "latitude": -37.70417,
+    "local_government_area": "City of Melton",
+    "longitude": 144.6375,
+    "postcode": 3335,
+    "suburb": "Grangefields, Victoria"
+  },
+  {
+    "latitude": -37.717,
+    "local_government_area": "City of Melton",
+    "longitude": 144.45,
+    "postcode": 3340,
+    "suburb": "Parwan, Victoria"
+  },
+  {
+    "latitude": -37.77389,
+    "local_government_area": "City of Melton",
+    "longitude": 144.63111,
+    "postcode": 3024,
+    "suburb": "Mount Cottrell, Victoria"
+  },
+  {
+    "latitude": -37.675,
+    "local_government_area": "City of Melton",
+    "longitude": 144.555,
+    "postcode": 3337,
+    "suburb": "Melton West, Victoria"
+  },
+  {
+    "latitude": -37.70306,
+    "local_government_area": "City of Melton",
+    "longitude": 144.57194,
+    "postcode": 3338,
+    "suburb": "Melton South, Victoria"
+  },
+  {
+    "latitude": -37.745,
+    "local_government_area": "City of Melton",
+    "longitude": 144.55889,
+    "postcode": 3338,
+    "suburb": "Exford, Victoria"
+  },
+  {
+    "latitude": -37.73056,
+    "local_government_area": "City of Melton",
+    "longitude": 144.70556,
+    "postcode": 3336,
+    "suburb": "Deanside, Victoria"
+  },
+  {
+    "latitude": -37.71139,
+    "local_government_area": "City of Melton",
+    "longitude": 144.60083,
+    "postcode": 3338,
+    "suburb": "Cobblebank, Victoria"
+  },
+  {
+    "latitude": -37.745,
+    "local_government_area": "City of Melton",
+    "longitude": 144.74,
+    "postcode": 3023,
+    "suburb": "Caroline Springs, Victoria"
+  },
+  {
+    "latitude": -37.727,
+    "local_government_area": "City of Melton",
+    "longitude": 144.76,
+    "postcode": 3023,
+    "suburb": "Burnside Heights, Victoria"
+  },
+  {
+    "latitude": -37.70417,
+    "local_government_area": "City of Melton",
+    "longitude": 144.7125,
+    "postcode": 3336,
+    "suburb": "Fraser Rise, Victoria"
+  },
+  {
+    "latitude": -37.75056,
+    "local_government_area": "City of Melton",
+    "longitude": 144.64833,
+    "postcode": 3024,
+    "suburb": "Fieldstone, Victoria"
+  },
+  {
+    "latitude": -37.76889,
+    "local_government_area": "City of Melton",
+    "longitude": 144.56889,
+    "postcode": 3338,
+    "suburb": "Eynesbury, Victoria"
+  },
+  {
+    "latitude": -37.753,
+    "local_government_area": "City of Melton",
+    "longitude": 144.754,
+    "postcode": 3023,
+    "suburb": "Burnside, Victoria"
+  },
+  {
+    "latitude": -37.675,
+    "local_government_area": "City of Melton",
+    "longitude": 144.525,
+    "postcode": 3338,
+    "suburb": "Brookfield, Victoria"
+  },
+  {
+    "latitude": -37.69444,
+    "local_government_area": "City of Melton",
+    "longitude": 144.66944,
+    "postcode": 3335,
+    "suburb": "Bonnie Brook, Victoria"
+  },
+  {
+    "latitude": -37.71806,
+    "local_government_area": "City of Melton",
+    "longitude": 144.66806,
+    "postcode": 3336,
+    "suburb": "Aintree, Victoria"
+  },
+  {
+    "latitude": -37.808,
+    "local_government_area": "City of Melbourne",
+    "longitude": 144.927,
+    "postcode": 3003,
+    "suburb": "West Melbourne, Victoria"
+  },
+  {
+    "latitude": -37.84,
+    "local_government_area": "City of Melbourne",
+    "longitude": 144.989,
+    "postcode": 3141,
+    "suburb": "South Yarra, Victoria"
+  },
+  {
+    "latitude": -37.825,
+    "local_government_area": "City of Melbourne",
+    "longitude": 144.952,
+    "postcode": 3006,
+    "suburb": "South Wharf, Victoria"
+  },
+  {
+    "latitude": -37.829,
+    "local_government_area": "City of Melbourne",
+    "longitude": 144.957,
+    "postcode": 3006,
+    "suburb": "Southbank, Victoria"
+  },
+  {
+    "latitude": -37.788,
+    "local_government_area": "City of Melbourne",
+    "longitude": 144.951,
+    "postcode": 3052,
+    "suburb": "Parkville, Victoria"
+  },
+  {
+    "latitude": -37.79917,
+    "local_government_area": "City of Melbourne",
+    "longitude": 144.94667,
+    "postcode": 3051,
+    "suburb": "North Melbourne, Victoria"
+  },
+  {
+    "latitude": -37.791,
+    "local_government_area": "City of Melbourne",
+    "longitude": 144.931,
+    "postcode": 3031,
+    "suburb": "Kensington, Victoria"
+  },
+  {
+    "latitude": -37.785,
+    "local_government_area": "City of Melbourne",
+    "longitude": 144.928,
+    "postcode": 3031,
+    "suburb": "Flemington, Victoria"
+  },
+  {
+    "latitude": -37.813,
+    "local_government_area": "City of Melbourne",
+    "longitude": 144.985,
+    "postcode": 3002,
+    "suburb": "East Melbourne, Victoria"
+  },
+  {
+    "latitude": -37.82389,
+    "local_government_area": "City of Melbourne",
+    "longitude": 144.91111,
+    "postcode": 3207,
+    "suburb": "Port Melbourne, Victoria"
+  },
+  {
+    "latitude": -37.82056,
+    "local_government_area": "City of Melbourne",
+    "longitude": 144.96889,
+    "postcode": 3004,
+    "suburb": "Melbourne CBD (St Kilda Road area), Victoria"
+  },
+  {
+    "latitude": -37.814,
+    "local_government_area": "City of Melbourne",
+    "longitude": 144.963,
+    "postcode": 3000,
+    "suburb": "Melbourne CBD, Victoria"
+  },
+  {
+    "latitude": -37.784,
+    "local_government_area": "City of Melbourne",
+    "longitude": 144.969,
+    "postcode": 3054,
+    "suburb": "Carlton North, Victoria"
+  },
+  {
+    "latitude": -37.817,
+    "local_government_area": "City of Melbourne",
+    "longitude": 144.946,
+    "postcode": 3008,
+    "suburb": "Docklands, Victoria"
+  },
+  {
+    "latitude": -37.778,
+    "local_government_area": "City of Maroondah",
+    "longitude": 145.214,
+    "postcode": 3114,
+    "suburb": "Park Orchards, Victoria"
+  },
+  {
+    "latitude": -37.777,
+    "local_government_area": "City of Maroondah",
+    "longitude": 145.249,
+    "postcode": 3134,
+    "suburb": "Warranwood, Victoria"
+  },
+  {
+    "latitude": -37.838,
+    "local_government_area": "City of Maroondah",
+    "longitude": 145.198,
+    "postcode": 3133,
+    "suburb": "Vermont, Victoria"
+  },
+  {
+    "latitude": -37.818,
+    "local_government_area": "City of Maroondah",
+    "longitude": 145.252,
+    "postcode": 3135,
+    "suburb": "Ringwood East, Victoria"
+  },
+  {
+    "latitude": -37.8114,
+    "local_government_area": "City of Maroondah",
+    "longitude": 145.2306,
+    "postcode": 3134,
+    "suburb": "Ringwood, Victoria"
+  },
+  {
+    "latitude": -37.8001,
+    "local_government_area": "City of Melbourne",
+    "longitude": 144.9671,
+    "postcode": 3053,
+    "suburb": "Carlton, Victoria"
+  },
+  {
+    "latitude": -37.83,
+    "local_government_area": "City of Maroondah",
+    "longitude": 145.32,
+    "postcode": 3137,
+    "suburb": "Kilsyth South, Victoria"
+  },
+  {
+    "latitude": -37.802,
+    "local_government_area": "City of Maroondah",
+    "longitude": 145.316,
+    "postcode": 3137,
+    "suburb": "Kilsyth, Victoria"
+  },
+  {
+    "latitude": -37.775,
+    "local_government_area": "City of Maroondah",
+    "longitude": 145.266,
+    "postcode": 3136,
+    "suburb": "Croydon Hills, Victoria"
+  },
+  {
+    "latitude": -37.83,
+    "local_government_area": "City of Maroondah",
+    "longitude": 145.242,
+    "postcode": 3135,
+    "suburb": "Heathmont, Victoria"
+  },
+  {
+    "latitude": -37.814,
+    "local_government_area": "City of Maroondah",
+    "longitude": 145.271,
+    "postcode": 3136,
+    "suburb": "Croydon South, Victoria"
+  },
+  {
+    "latitude": -37.767,
+    "local_government_area": "City of Maroondah",
+    "longitude": 145.287,
+    "postcode": 3136,
+    "suburb": "Croydon North, Victoria"
+  },
+  {
+    "latitude": -37.796,
+    "local_government_area": "City of Maroondah",
+    "longitude": 145.281,
+    "postcode": 3136,
+    "suburb": "Croydon, Victoria"
+  },
+  {
+    "latitude": -37.827,
+    "local_government_area": "City of Maroondah",
+    "longitude": 145.28,
+    "postcode": 3153,
+    "suburb": "Bayswater North, Victoria"
+  },
+  {
+    "latitude": -37.817,
+    "local_government_area": "City of Maribyrnong",
+    "longitude": 144.89,
+    "postcode": 3013,
+    "suburb": "Yarraville, Victoria"
+  },
+  {
+    "latitude": -37.809,
+    "local_government_area": "City of Maribyrnong",
+    "longitude": 144.874,
+    "postcode": 3012,
+    "suburb": "West Footscray, Victoria"
+  },
+  {
+    "latitude": -37.806,
+    "local_government_area": "City of Maribyrnong",
+    "longitude": 144.857,
+    "postcode": 3012,
+    "suburb": "Tottenham, Victoria"
+  },
+  {
+    "latitude": -37.81,
+    "local_government_area": "City of Maribyrnong",
+    "longitude": 144.894,
+    "postcode": 3011,
+    "suburb": "Seddon, Victoria"
+  },
+  {
+    "latitude": -37.77,
+    "local_government_area": "City of Maribyrnong",
+    "longitude": 144.893,
+    "postcode": 3032,
+    "suburb": "Maribyrnong, Victoria"
+  },
+  {
+    "latitude": -37.783,
+    "local_government_area": "City of Maribyrnong",
+    "longitude": 144.878,
+    "postcode": 3012,
+    "suburb": "Maidstone, Victoria"
+  },
+  {
+    "latitude": -37.809,
+    "local_government_area": "City of Maribyrnong",
+    "longitude": 144.878,
+    "postcode": 3012,
+    "suburb": "Kingsville, Victoria"
+  },
+  {
+    "latitude": -37.798,
+    "local_government_area": "City of Maribyrnong",
+    "longitude": 144.899,
+    "postcode": 3011,
+    "suburb": "Footscray, Victoria"
+  },
+  {
+    "latitude": -37.768,
+    "local_government_area": "City of Manningham",
+    "longitude": 145.201,
+    "postcode": 3134,
+    "suburb": "Warrandyte South, Victoria"
+  },
+  {
+    "latitude": -37.786,
+    "local_government_area": "City of Maribyrnong",
+    "longitude": 144.856,
+    "postcode": 3019,
+    "suburb": "Braybrook, Victoria"
+  },
+  {
+    "latitude": -37.765,
+    "local_government_area": "City of Manningham",
+    "longitude": 145.114,
+    "postcode": 3107,
+    "suburb": "Templestowe Lower, Victoria"
+  },
+  {
+    "latitude": -37.739,
+    "local_government_area": "City of Manningham",
+    "longitude": 145.267,
+    "postcode": 3115,
+    "suburb": "Wonga Park, Victoria"
+  },
+  {
+    "latitude": -37.738,
+    "local_government_area": "City of Manningham",
+    "longitude": 145.223,
+    "postcode": 3113,
+    "suburb": "Warrandyte, Victoria"
+  },
+  {
+    "latitude": -37.753,
+    "local_government_area": "City of Manningham",
+    "longitude": 145.135,
+    "postcode": 3106,
+    "suburb": "Templestowe, Victoria"
+  },
+  {
+    "latitude": -37.799883,
+    "local_government_area": "City of Manningham",
+    "longitude": 145.226877,
+    "postcode": 3134,
+    "suburb": "Ringwood North, Victoria"
+  },
+  {
+    "latitude": -37.817,
+    "local_government_area": "City of Manningham",
+    "longitude": 145.177,
+    "postcode": 3131,
+    "suburb": "Nunawading, Victoria"
+  },
+  {
+    "latitude": -37.797,
+    "local_government_area": "City of Manningham",
+    "longitude": 145.175,
+    "postcode": 3111,
+    "suburb": "Donvale, Victoria"
+  },
+  {
+    "latitude": -37.783,
+    "local_government_area": "City of Manningham",
+    "longitude": 145.166,
+    "postcode": 3109,
+    "suburb": "Doncaster East, Victoria"
+  },
+  {
+    "latitude": -37.778,
+    "local_government_area": "City of Manningham",
+    "longitude": 145.214,
+    "postcode": 3114,
+    "suburb": "Park Orchards, Victoria"
+  },
+  {
+    "latitude": -37.78,
+    "local_government_area": "City of Manningham",
+    "longitude": 145.124,
+    "postcode": 3108,
+    "suburb": "Doncaster, Victoria"
+  },
+  {
+    "latitude": -37.77,
+    "local_government_area": "City of Manningham",
+    "longitude": 145.09,
+    "postcode": 3105,
+    "suburb": "Bulleen, Victoria"
+  },
+  {
+    "latitude": -37.881,
+    "local_government_area": "City of Knox",
+    "longitude": 145.224,
+    "postcode": 3152,
+    "suburb": "Wantirna South, Victoria"
+  },
+  {
+    "latitude": -37.844,
+    "local_government_area": "City of Knox",
+    "longitude": 145.229,
+    "postcode": 3152,
+    "suburb": "Wantirna, Victoria"
+  },
+  {
+    "latitude": -37.895,
+    "local_government_area": "City of Knox",
+    "longitude": 145.31,
+    "postcode": 3156,
+    "suburb": "Upper Ferntree Gully, Victoria"
+  },
+  {
+    "latitude": -37.894,
+    "local_government_area": "City of Knox",
+    "longitude": 145.234,
+    "postcode": 3179,
+    "suburb": "Scoresby, Victoria"
+  },
+  {
+    "latitude": -37.93,
+    "local_government_area": "City of Knox",
+    "longitude": 145.301,
+    "postcode": 3156,
+    "suburb": "Lysterfield, Victoria"
+  },
+  {
+    "latitude": -37.937,
+    "local_government_area": "City of Knox",
+    "longitude": 145.229,
+    "postcode": 3178,
+    "suburb": "Rowville, Victoria"
+  },
+  {
+    "latitude": -37.891,
+    "local_government_area": "City of Knox",
+    "longitude": 145.248,
+    "postcode": 3180,
+    "suburb": "Knoxfield, Victoria"
+  },
+  {
+    "latitude": -37.86,
+    "local_government_area": "City of Knox",
+    "longitude": 145.314,
+    "postcode": 3154,
+    "suburb": "The Basin, Victoria"
+  },
+  {
+    "latitude": -37.87,
+    "local_government_area": "City of Knox",
+    "longitude": 145.35389,
+    "postcode": 3787,
+    "suburb": "Sassafras, Victoria"
+  },
+  {
+    "latitude": -37.8862,
+    "local_government_area": "City of Knox",
+    "longitude": 145.2821,
+    "postcode": 3156,
+    "suburb": "Ferntree Gully, Victoria"
+  },
+  {
+    "latitude": -37.862,
+    "local_government_area": "City of Knox",
+    "longitude": 145.286,
+    "postcode": 3155,
+    "suburb": "Boronia, Victoria"
+  },
+  {
+    "latitude": -38.016,
+    "local_government_area": "City of Kingston",
+    "longitude": 145.13,
+    "postcode": 3195,
+    "suburb": "Waterways, Victoria"
+  },
+  {
+    "latitude": -37.991,
+    "local_government_area": "City of Kingston",
+    "longitude": 145.08,
+    "postcode": 3195,
+    "suburb": "Parkdale, Victoria"
+  },
+  {
+    "latitude": -37.999,
+    "local_government_area": "City of Kingston",
+    "longitude": 145.092,
+    "postcode": 3195,
+    "suburb": "Mordialloc, Victoria"
+  },
+  {
+    "latitude": -37.97583,
+    "local_government_area": "City of Kingston",
+    "longitude": 145.10222,
+    "postcode": 3194,
+    "suburb": "Moorabbin Airport, Victoria"
+  },
+  {
+    "latitude": -37.843,
+    "local_government_area": "City of Knox",
+    "longitude": 145.268,
+    "postcode": 3153,
+    "suburb": "Bayswater, Victoria"
+  },
+  {
+    "latitude": -38.076,
+    "local_government_area": "City of Kingston",
+    "longitude": 145.122,
+    "postcode": 3197,
+    "suburb": "Patterson Lakes, Victoria"
+  },
+  {
+    "latitude": -37.95,
+    "local_government_area": "City of Kingston",
+    "longitude": 145.085,
+    "postcode": 3202,
+    "suburb": "Heatherton, Victoria"
+  },
+  {
+    "latitude": -37.985,
+    "local_government_area": "City of Kingston",
+    "longitude": 145.06889,
+    "postcode": 3194,
+    "suburb": "Mentone, Victoria"
+  },
+  {
+    "latitude": -38.037,
+    "local_government_area": "City of Kingston",
+    "longitude": 145.113,
+    "postcode": 3196,
+    "suburb": "Edithvale, Victoria"
+  },
+  {
+    "latitude": -38.05111,
+    "local_government_area": "City of Kingston",
+    "longitude": 145.12194,
+    "postcode": 3196,
+    "suburb": "Chelsea, Victoria"
+  },
+  {
+    "latitude": -37.981,
+    "local_government_area": "City of Kingston",
+    "longitude": 145.128,
+    "postcode": 3172,
+    "suburb": "Dingley Village, Victoria"
+  },
+  {
+    "latitude": -37.947,
+    "local_government_area": "City of Kingston",
+    "longitude": 145.123,
+    "postcode": 3169,
+    "suburb": "Clayton South, Victoria"
+  },
+  {
+    "latitude": -37.941,
+    "local_government_area": "City of Kingston",
+    "longitude": 145.103,
+    "postcode": 3169,
+    "suburb": "Clarinda, Victoria"
+  },
+  {
+    "latitude": -38.047,
+    "local_government_area": "City of Kingston",
+    "longitude": 145.137,
+    "postcode": 3196,
+    "suburb": "Chelsea Heights, Victoria"
+  },
+  {
+    "latitude": -38.076,
+    "local_government_area": "City of Kingston",
+    "longitude": 145.122,
+    "postcode": 3197,
+    "suburb": "Carrum, Victoria"
+  },
+  {
+    "latitude": -38.0,
+    "local_government_area": "City of Kingston",
+    "longitude": 145.125,
+    "postcode": 3195,
+    "suburb": "Braeside, Victoria"
+  },
+  {
+    "latitude": -38.062,
+    "local_government_area": "City of Kingston",
+    "longitude": 145.12,
+    "postcode": 3196,
+    "suburb": "Bonbeach, Victoria"
+  },
+  {
+    "latitude": -38.02278,
+    "local_government_area": "City of Kingston",
+    "longitude": 145.11889,
+    "postcode": 3195,
+    "suburb": "Aspendale Gardens, Victoria"
+  },
+  {
+    "latitude": -38.025,
+    "local_government_area": "City of Kingston",
+    "longitude": 145.104,
+    "postcode": 3195,
+    "suburb": "Aspendale, Victoria"
+  },
+  {
+    "latitude": -37.6,
+    "local_government_area": "City of Hume",
+    "longitude": 144.88,
+    "postcode": 3063,
+    "suburb": "Yuroke, Victoria"
+  },
+  {
+    "latitude": -37.57167,
+    "local_government_area": "City of Hume",
+    "longitude": 144.79361,
+    "postcode": 3429,
+    "suburb": "Wildwood, Victoria"
+  },
+  {
+    "latitude": -37.63,
+    "local_government_area": "City of Hume",
+    "longitude": 144.837,
+    "postcode": 3063,
+    "suburb": "Oaklands Junction, Victoria"
+  },
+  {
+    "latitude": -37.52694,
+    "local_government_area": "City of Hume",
+    "longitude": 144.94694,
+    "postcode": 3064,
+    "suburb": "Kalkallo, Victoria"
+  },
+  {
+    "latitude": -37.562,
+    "local_government_area": "City of Hume",
+    "longitude": 144.874,
+    "postcode": 3064,
+    "suburb": "Mickleham, Victoria"
+  },
+  {
+    "latitude": -37.58111,
+    "local_government_area": "City of Hume",
+    "longitude": 144.71389,
+    "postcode": 3429,
+    "suburb": "Sunbury, Victoria"
+  },
+  {
+    "latitude": -37.678,
+    "local_government_area": "City of Hume",
+    "longitude": 144.893,
+    "postcode": 3049,
+    "suburb": "Westmeadows, Victoria"
+  },
+  {
+    "latitude": -37.633,
+    "local_government_area": "City of Hume",
+    "longitude": 144.95,
+    "postcode": 3062,
+    "suburb": "Somerton, Victoria"
+  },
+  {
+    "latitude": -37.627,
+    "local_government_area": "City of Hume",
+    "longitude": 144.929,
+    "postcode": 3064,
+    "suburb": "Roxburgh Park, Victoria"
+  },
+  {
+    "latitude": -37.62806,
+    "local_government_area": "City of Hume",
+    "longitude": 144.72111,
+    "postcode": 3427,
+    "suburb": "Diggers Rest, Victoria"
+  },
+  {
+    "latitude": -37.6875,
+    "local_government_area": "City of Hume",
+    "longitude": 144.84056,
+    "postcode": 3045,
+    "suburb": "Melbourne Airport, Victoria"
+  },
+  {
+    "latitude": -37.483,
+    "local_government_area": "City of Hume",
+    "longitude": 144.75,
+    "postcode": 3430,
+    "suburb": "Clarkefield, Victoria"
+  },
+  {
+    "latitude": -37.63694,
+    "local_government_area": "City of Hume",
+    "longitude": 144.80306,
+    "postcode": 3428,
+    "suburb": "Bulla, Victoria"
+  },
+  {
+    "latitude": -37.657,
+    "local_government_area": "City of Hume",
+    "longitude": 144.927,
+    "postcode": 3048,
+    "suburb": "Coolaroo, Victoria"
+  },
+  {
+    "latitude": -37.673,
+    "local_government_area": "City of Hume",
+    "longitude": 144.957,
+    "postcode": 3061,
+    "suburb": "Campbellfield, Victoria"
+  },
+  {
+    "latitude": -37.65,
+    "local_government_area": "City of Hume",
+    "longitude": 144.922,
+    "postcode": 3048,
+    "suburb": "Meadow Heights, Victoria"
+  },
+  {
+    "latitude": -37.68,
+    "local_government_area": "City of Hume",
+    "longitude": 144.912,
+    "postcode": 3047,
+    "suburb": "Jacana, Victoria"
+  },
+  {
+    "latitude": -37.633,
+    "local_government_area": "City of Hume",
+    "longitude": 144.883,
+    "postcode": 3059,
+    "suburb": "Greenvale, Victoria"
+  },
+  {
+    "latitude": -37.688,
+    "local_government_area": "City of Hume",
+    "longitude": 144.892,
+    "postcode": 3043,
+    "suburb": "Gladstone Park, Victoria"
+  },
+  {
+    "latitude": -37.668,
+    "local_government_area": "City of Hume",
+    "longitude": 144.94,
+    "postcode": 3047,
+    "suburb": "Dallas, Victoria"
+  },
+  {
+    "latitude": -37.594,
+    "local_government_area": "City of Hume",
+    "longitude": 144.934,
+    "postcode": 3064,
+    "suburb": "Craigieburn, Victoria"
+  },
+  {
+    "latitude": -37.868,
+    "local_government_area": "City of Hobsons Bay",
+    "longitude": 144.841,
+    "postcode": 3018,
+    "suburb": "Seaholme, Victoria"
+  },
+  {
+    "latitude": -37.876,
+    "local_government_area": "City of Hobsons Bay",
+    "longitude": 144.758,
+    "postcode": 3028,
+    "suburb": "Seabrook, Victoria"
+  },
+  {
+    "latitude": -37.831,
+    "local_government_area": "City of Hobsons Bay",
+    "longitude": 144.887,
+    "postcode": 3015,
+    "suburb": "Spotswood, Victoria"
+  },
+  {
+    "latitude": -37.685,
+    "local_government_area": "City of Hume",
+    "longitude": 144.925,
+    "postcode": 3047,
+    "suburb": "Broadmeadows, Victoria"
+  },
+  {
+    "latitude": -37.666,
+    "local_government_area": "City of Hume",
+    "longitude": 144.887,
+    "postcode": 3049,
+    "suburb": "Attwood, Victoria"
+  },
+  {
+    "latitude": -37.855,
+    "local_government_area": "City of Hobsons Bay",
+    "longitude": 144.89611,
+    "postcode": 3016,
+    "suburb": "Williamstown North, Victoria"
+  },
+  {
+    "latitude": -37.819,
+    "local_government_area": "City of Hobsons Bay",
+    "longitude": 144.873,
+    "postcode": 3015,
+    "suburb": "South Kingsville, Victoria"
+  },
+  {
+    "latitude": -37.861,
+    "local_government_area": "City of Hobsons Bay",
+    "longitude": 144.885,
+    "postcode": 3016,
+    "suburb": "Williamstown, Victoria"
+  },
+  {
+    "latitude": -37.858,
+    "local_government_area": "City of Hobsons Bay",
+    "longitude": 144.773,
+    "postcode": 3028,
+    "suburb": "Laverton, Victoria"
+  },
+  {
+    "latitude": -37.875,
+    "local_government_area": "City of Hobsons Bay",
+    "longitude": 144.782,
+    "postcode": 3028,
+    "suburb": "Altona Meadows, Victoria"
+  },
+  {
+    "latitude": -38.049,
+    "local_government_area": "City of Greater Dandenong",
+    "longitude": 145.166,
+    "postcode": 3175,
+    "suburb": "Bangholme, Victoria"
+  },
+  {
+    "latitude": -37.947,
+    "local_government_area": "City of Greater Dandenong",
+    "longitude": 145.153,
+    "postcode": 3171,
+    "suburb": "Springvale, Victoria"
+  },
+  {
+    "latitude": -37.977,
+    "local_government_area": "City of Greater Dandenong",
+    "longitude": 145.157,
+    "postcode": 3172,
+    "suburb": "Springvale South, Victoria"
+  },
+  {
+    "latitude": -37.842,
+    "local_government_area": "City of Hobsons Bay",
+    "longitude": 144.884,
+    "postcode": 3015,
+    "suburb": "Newport, Victoria"
+  },
+  {
+    "latitude": -37.841,
+    "local_government_area": "City of Hobsons Bay",
+    "longitude": 144.849,
+    "postcode": 3025,
+    "suburb": "Altona North, Victoria"
+  },
+  {
+    "latitude": -37.868,
+    "local_government_area": "City of Hobsons Bay",
+    "longitude": 144.83,
+    "postcode": 3018,
+    "suburb": "Altona, Victoria"
+  },
+  {
+    "latitude": -37.942,
+    "local_government_area": "City of Greater Dandenong",
+    "longitude": 145.19,
+    "postcode": 3174,
+    "suburb": "Noble Park North, Victoria"
+  },
+  {
+    "latitude": -37.967,
+    "local_government_area": "City of Greater Dandenong",
+    "longitude": 145.176,
+    "postcode": 3174,
+    "suburb": "Noble Park, Victoria"
+  },
+  {
+    "latitude": -38.031,
+    "local_government_area": "City of Greater Dandenong",
+    "longitude": 145.215,
+    "postcode": 3175,
+    "suburb": "Dandenong South, Victoria"
+  },
+  {
+    "latitude": -37.959,
+    "local_government_area": "City of Greater Dandenong",
+    "longitude": 145.208,
+    "postcode": 3175,
+    "suburb": "Dandenong North, Victoria"
+  },
+  {
+    "latitude": -37.981,
+    "local_government_area": "City of Greater Dandenong",
+    "longitude": 145.215,
+    "postcode": 3175,
+    "suburb": "Dandenong, Victoria"
+  },
+  {
+    "latitude": -37.862,
+    "local_government_area": "City of Glen Eira",
+    "longitude": 144.997,
+    "postcode": 3183,
+    "suburb": "St Kilda East, Victoria"
+  },
+  {
+    "latitude": -37.84,
+    "local_government_area": "City of Glen Eira",
+    "longitude": 145.0397,
+    "postcode": 3204,
+    "suburb": "Ormond, Victoria"
+  },
+  {
+    "latitude": -37.989,
+    "local_government_area": "City of Greater Dandenong",
+    "longitude": 145.172,
+    "postcode": 3173,
+    "suburb": "Keysborough, Victoria"
+  },
+  {
+    "latitude": -37.91,
+    "local_government_area": "City of Glen Eira",
+    "longitude": 145.039,
+    "postcode": 3204,
+    "suburb": "McKinnon, Victoria"
+  },
+  {
+    "latitude": -37.899,
+    "local_government_area": "City of Glen Eira",
+    "longitude": 145.072,
+    "postcode": 3163,
+    "suburb": "Murrumbeena, Victoria"
+  },
+  {
+    "latitude": -37.888,
+    "local_government_area": "City of Glen Eira",
+    "longitude": 145.062,
+    "postcode": 3163,
+    "suburb": "Carnegie, Victoria"
+  },
+  {
+    "latitude": -37.891,
+    "local_government_area": "City of Glen Eira",
+    "longitude": 145.026,
+    "postcode": 3162,
+    "suburb": "Caulfield South, Victoria"
+  },
+  {
+    "latitude": -37.873,
+    "local_government_area": "City of Glen Eira",
+    "longitude": 145.025,
+    "postcode": 3161,
+    "suburb": "Caulfield North, Victoria"
+  },
+  {
+    "latitude": -37.894,
+    "local_government_area": "City of Glen Eira",
+    "longitude": 145.046,
+    "postcode": 3163,
+    "suburb": "Glen Huntly, Victoria"
+  },
+  {
+    "latitude": -37.899,
+    "local_government_area": "City of Glen Eira",
+    "longitude": 145.007,
+    "postcode": 3185,
+    "suburb": "Gardenvale, Victoria"
+  },
+  {
+    "latitude": -37.887,
+    "local_government_area": "City of Glen Eira",
+    "longitude": 145.006,
+    "postcode": 3185,
+    "suburb": "Elsternwick, Victoria"
+  },
+  {
+    "latitude": -37.876,
+    "local_government_area": "City of Glen Eira",
+    "longitude": 145.044,
+    "postcode": 3145,
+    "suburb": "Caulfield East, Victoria"
+  },
+  {
+    "latitude": -38.081,
+    "local_government_area": "City of Frankston",
+    "longitude": 145.207,
+    "postcode": 3977,
+    "suburb": "Sandhurst, Victoria"
+  },
+  {
+    "latitude": -37.884,
+    "local_government_area": "City of Glen Eira",
+    "longitude": 145.0266,
+    "postcode": 3162,
+    "suburb": "Caulfield, Victoria"
+  },
+  {
+    "latitude": -37.921,
+    "local_government_area": "City of Glen Eira",
+    "longitude": 145.067,
+    "postcode": 3165,
+    "suburb": "Bentleigh East, Victoria"
+  },
+  {
+    "latitude": -37.922,
+    "local_government_area": "City of Glen Eira",
+    "longitude": 145.036,
+    "postcode": 3204,
+    "suburb": "Bentleigh, Victoria"
+  },
+  {
+    "latitude": -38.189,
+    "local_government_area": "City of Frankston",
+    "longitude": 145.189,
+    "postcode": 3911,
+    "suburb": "Langwarrin South, Victoria"
+  },
+  {
+    "latitude": -38.119,
+    "local_government_area": "City of Frankston",
+    "longitude": 145.2,
+    "postcode": 3977,
+    "suburb": "Skye, Victoria"
+  },
+  {
+    "latitude": -38.105,
+    "local_government_area": "City of Frankston",
+    "longitude": 145.132,
+    "postcode": 3198,
+    "suburb": "Seaford, Victoria"
+  },
+  {
+    "latitude": -38.151,
+    "local_government_area": "City of Frankston",
+    "longitude": 145.181,
+    "postcode": 3910,
+    "suburb": "Langwarrin, Victoria"
+  },
+  {
+    "latitude": -37.713,
+    "local_government_area": "City of Darebin",
+    "longitude": 145.012,
+    "postcode": 3073,
+    "suburb": "Reservoir, Victoria"
+  },
+  {
+    "latitude": -38.188,
+    "local_government_area": "City of Frankston",
+    "longitude": 145.153,
+    "postcode": 3199,
+    "suburb": "Frankston South, Victoria"
+  },
+  {
+    "latitude": -38.123,
+    "local_government_area": "City of Frankston",
+    "longitude": 145.153,
+    "postcode": 3200,
+    "suburb": "Frankston North, Victoria"
+  },
+  {
+    "latitude": -38.096,
+    "local_government_area": "City of Frankston",
+    "longitude": 145.178,
+    "postcode": 3201,
+    "suburb": "Carrum Downs, Victoria"
+  },
+  {
+    "latitude": -37.76,
+    "local_government_area": "City of Darebin",
+    "longitude": 145.007,
+    "postcode": 3071,
+    "suburb": "Thornbury, Victoria"
+  },
+  {
+    "latitude": -37.743,
+    "local_government_area": "City of Darebin",
+    "longitude": 145.008,
+    "postcode": 3072,
+    "suburb": "Preston, Victoria"
+  },
+  {
+    "latitude": -37.7722,
+    "local_government_area": "City of Darebin",
+    "longitude": 144.9994,
+    "postcode": 3070,
+    "suburb": "Northcote, Victoria"
+  },
+  {
+    "latitude": -38.13333,
+    "local_government_area": "City of Frankston",
+    "longitude": 145.11667,
+    "postcode": 3199,
+    "suburb": "Frankston, Victoria"
+  },
+  {
+    "latitude": -37.715,
+    "local_government_area": "City of Darebin",
+    "longitude": 145.034,
+    "postcode": 3083,
+    "suburb": "Kingsbury, Victoria"
+  },
+  {
+    "latitude": -37.792,
+    "local_government_area": "City of Darebin",
+    "longitude": 145.011,
+    "postcode": 3078,
+    "suburb": "Fairfield, Victoria"
+  },
+  {
+    "latitude": -37.78,
+    "local_government_area": "City of Darebin",
+    "longitude": 145.023,
+    "postcode": 3078,
+    "suburb": "Alphington, Victoria"
+  },
+  {
+    "latitude": -37.949,
+    "local_government_area": "City of Casey",
+    "longitude": 145.26,
+    "postcode": 3156,
+    "suburb": "Lysterfield South, Victoria"
+  },
+  {
+    "latitude": -38.224,
+    "local_government_area": "City of Casey",
+    "longitude": 145.309,
+    "postcode": 3980,
+    "suburb": "Warneet, Victoria"
+  },
+  {
+    "latitude": -38.21111,
+    "local_government_area": "City of Casey",
+    "longitude": 145.38,
+    "postcode": 3980,
+    "suburb": "Tooradin, Victoria"
+  },
+  {
+    "latitude": -38.203,
+    "local_government_area": "City of Casey",
+    "longitude": 145.243,
+    "postcode": 3912,
+    "suburb": "Pearcedale, Victoria"
+  },
+  {
+    "latitude": -38.04722,
+    "local_government_area": "City of Casey",
+    "longitude": 145.24472,
+    "postcode": 3975,
+    "suburb": "Lyndhurst, Victoria"
+  },
+  {
+    "latitude": -38.162,
+    "local_government_area": "City of Casey",
+    "longitude": 145.303,
+    "postcode": 3977,
+    "suburb": "Devon Meadows, Victoria"
+  },
+  {
+    "latitude": -38.213,
+    "local_government_area": "City of Casey",
+    "longitude": 145.315,
+    "postcode": 3977,
+    "suburb": "Cannons Creek, Victoria"
+  },
+  {
+    "latitude": -38.214,
+    "local_government_area": "City of Casey",
+    "longitude": 145.34,
+    "postcode": 3980,
+    "suburb": "Blind Bight, Victoria"
+  },
+  {
+    "latitude": -38.055,
+    "local_government_area": "City of Casey",
+    "longitude": 145.303,
+    "postcode": 3805,
+    "suburb": "Narre Warren South, Victoria"
+  },
+  {
+    "latitude": -37.982,
+    "local_government_area": "City of Casey",
+    "longitude": 145.314,
+    "postcode": 3804,
+    "suburb": "Narre Warren North, Victoria"
+  },
+  {
+    "latitude": -37.999,
+    "local_government_area": "City of Casey",
+    "longitude": 145.344,
+    "postcode": 3806,
+    "suburb": "Harkaway, Victoria"
+  },
+  {
+    "latitude": -38.018,
+    "local_government_area": "City of Casey",
+    "longitude": 145.3,
+    "postcode": 3805,
+    "suburb": "Narre Warren, Victoria"
+  },
+  {
+    "latitude": -38.05,
+    "local_government_area": "City of Casey",
+    "longitude": 145.252,
+    "postcode": 3975,
+    "suburb": "Lynbrook, Victoria"
+  },
+  {
+    "latitude": -38.132,
+    "local_government_area": "City of Casey",
+    "longitude": 145.293,
+    "postcode": 3977,
+    "suburb": "Junction Village, Victoria"
+  },
+  {
+    "latitude": -38.029,
+    "local_government_area": "City of Casey",
+    "longitude": 145.26,
+    "postcode": 3976,
+    "suburb": "Hampton Park, Victoria"
+  },
+  {
+    "latitude": -38.07,
+    "local_government_area": "City of Casey",
+    "longitude": 145.291,
+    "postcode": 3977,
+    "suburb": "Cranbourne North, Victoria"
+  },
+  {
+    "latitude": -38.009,
+    "local_government_area": "City of Casey",
+    "longitude": 145.268,
+    "postcode": 3803,
+    "suburb": "Hallam, Victoria"
+  },
+  {
+    "latitude": -37.999,
+    "local_government_area": "City of Casey",
+    "longitude": 145.247,
+    "postcode": 3177,
+    "suburb": "Eumemmerring, Victoria"
+  },
+  {
+    "latitude": -37.969,
+    "local_government_area": "City of Casey",
+    "longitude": 145.2558,
+    "postcode": 3802,
+    "suburb": "Endeavour Hills, Victoria"
+  },
+  {
+    "latitude": -37.988,
+    "local_government_area": "City of Casey",
+    "longitude": 145.239,
+    "postcode": 3177,
+    "suburb": "Doveton, Victoria"
+  },
+  {
+    "latitude": -38.149,
+    "local_government_area": "City of Casey",
+    "longitude": 145.261,
+    "postcode": 3977,
+    "suburb": "Cranbourne South, Victoria"
+  },
+  {
+    "latitude": -38.105,
+    "local_government_area": "City of Casey",
+    "longitude": 145.307,
+    "postcode": 3977,
+    "suburb": "Cranbourne East, Victoria"
+  },
+  {
+    "latitude": -38.117,
+    "local_government_area": "City of Casey",
+    "longitude": 145.333,
+    "postcode": 3978,
+    "suburb": "Clyde North, Victoria"
+  },
+  {
+    "latitude": -38.132,
+    "local_government_area": "City of Casey",
+    "longitude": 145.327,
+    "postcode": 3978,
+    "suburb": "Clyde, Victoria"
+  },
+  {
+    "latitude": -38.144,
+    "local_government_area": "City of Casey",
+    "longitude": 145.267,
+    "postcode": 3977,
+    "suburb": "Botanic Ridge, Victoria"
+  },
+  {
+    "latitude": -38.031,
+    "local_government_area": "City of Casey",
+    "longitude": 145.344,
+    "postcode": 3806,
+    "suburb": "Berwick, Victoria"
+  },
+  {
+    "latitude": -38.233,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.633,
+    "postcode": 3894,
+    "suburb": "Yannathan, Victoria"
+  },
+  {
+    "latitude": -38.133,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.667,
+    "postcode": 3814,
+    "suburb": "Vervale, Victoria"
+  },
+  {
+    "latitude": -38.105,
+    "local_government_area": "City of Casey",
+    "longitude": 145.279,
+    "postcode": 3977,
+    "suburb": "Cranbourne, Victoria"
+  },
+  {
+    "latitude": -38.15,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.456,
+    "postcode": 3810,
+    "suburb": "Rythdale, Victoria"
+  },
+  {
+    "latitude": -38.0712,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.4878,
+    "postcode": 3810,
+    "suburb": "Pakenham Upper, Victoria"
+  },
+  {
+    "latitude": -38.0712,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.4878,
+    "postcode": 3810,
+    "suburb": "Pakenham South, Victoria"
+  },
+  {
+    "latitude": -38.083,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.617,
+    "postcode": 3813,
+    "suburb": "Tynong North, Victoria"
+  },
+  {
+    "latitude": -38.05806,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.40889,
+    "postcode": 3809,
+    "suburb": "Officer South, Victoria"
+  },
+  {
+    "latitude": -38.083333,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.616667,
+    "postcode": 3813,
+    "suburb": "Tynong, Victoria"
+  },
+  {
+    "latitude": -38.21111,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.38,
+    "postcode": 3977,
+    "suburb": "Tooradin North, Victoria"
+  },
+  {
+    "latitude": -38.0,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.717,
+    "postcode": 3815,
+    "suburb": "Tonimbuk, Victoria"
+  },
+  {
+    "latitude": -37.978,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.464,
+    "postcode": 3809,
+    "suburb": "Dewhurst, Victoria"
+  },
+  {
+    "latitude": -38.19,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.425,
+    "postcode": 3981,
+    "suburb": "Dalmore, Victoria"
+  },
+  {
+    "latitude": -38.14528,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.60583,
+    "postcode": 3814,
+    "suburb": "Cora Lynn, Victoria"
+  },
+  {
+    "latitude": -38.333,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.667,
+    "postcode": 3987,
+    "suburb": "Nyora, Victoria"
+  },
+  {
+    "latitude": -38.019,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.551,
+    "postcode": 3812,
+    "suburb": "Nar Nar Goon North, Victoria"
+  },
+  {
+    "latitude": -38.08194,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.575,
+    "postcode": 3812,
+    "suburb": "Nar Nar Goon, Victoria"
+  },
+  {
+    "latitude": -37.867,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.533,
+    "postcode": 3781,
+    "suburb": "Nangana, Victoria"
+  },
+  {
+    "latitude": -38.067,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.683,
+    "postcode": 3814,
+    "suburb": "Garfield, Victoria"
+  },
+  {
+    "latitude": -37.935,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.492,
+    "postcode": 3781,
+    "suburb": "Cockatoo, Victoria"
+  },
+  {
+    "latitude": -37.929,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.423,
+    "postcode": 3782,
+    "suburb": "Clematis, Victoria"
+  },
+  {
+    "latitude": -38.183,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.65,
+    "postcode": 3981,
+    "suburb": "Catani, Victoria"
+  },
+  {
+    "latitude": -38.147,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.423,
+    "postcode": 3978,
+    "suburb": "Cardinia, Victoria"
+  },
+  {
+    "latitude": -38.25,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.552,
+    "postcode": 3984,
+    "suburb": "Caldermeade, Victoria"
+  },
+  {
+    "latitude": -38.067,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.717,
+    "postcode": 3815,
+    "suburb": "Bunyip North, Victoria"
+  },
+  {
+    "latitude": -38.083,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.717,
+    "postcode": 3815,
+    "suburb": "Bunyip, Victoria"
+  },
+  {
+    "latitude": -37.996,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.415,
+    "postcode": 3808,
+    "suburb": "Beaconsfield Upper, Victoria"
+  },
+  {
+    "latitude": -38.182,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.575,
+    "postcode": 3981,
+    "suburb": "Bayles, Victoria"
+  },
+  {
+    "latitude": -37.925,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.48194,
+    "postcode": 3782,
+    "suburb": "Avonsleigh, Victoria"
+  },
+  {
+    "latitude": -38.0712,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.4878,
+    "postcode": 3810,
+    "suburb": "Pakenham, Victoria"
+  },
+  {
+    "latitude": -38.05806,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.40889,
+    "postcode": 3809,
+    "suburb": "Officer, Victoria"
+  },
+  {
+    "latitude": -37.93306,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.43694,
+    "postcode": 3782,
+    "suburb": "Emerald, Victoria"
+  },
+  {
+    "latitude": -38.049,
+    "local_government_area": "Shire of Cardinia",
+    "longitude": 145.371,
+    "postcode": 3807,
+    "suburb": "Beaconsfield, Victoria"
+  },
+  {
+    "latitude": -37.701,
+    "local_government_area": "City of Brimbank",
+    "longitude": 144.876,
+    "postcode": 3043,
+    "suburb": "Tullamarine, Victoria"
+  },
+  {
+    "latitude": -37.701,
+    "local_government_area": "City of Brimbank",
+    "longitude": 144.796,
+    "postcode": 3038,
+    "suburb": "Taylors Lakes, Victoria"
+  },
+  {
+    "latitude": -37.702,
+    "local_government_area": "City of Brimbank",
+    "longitude": 144.767,
+    "postcode": 3037,
+    "suburb": "Sydenham, Victoria"
+  },
+  {
+    "latitude": -37.734,
+    "local_government_area": "City of Brimbank",
+    "longitude": 144.772,
+    "postcode": 3021,
+    "suburb": "Kings Park, Victoria"
+  },
+  {
+    "latitude": -37.719,
+    "local_government_area": "City of Brimbank",
+    "longitude": 144.851,
+    "postcode": 3042,
+    "suburb": "Keilor Park, Victoria"
+  },
+  {
+    "latitude": -37.68,
+    "local_government_area": "City of Brimbank",
+    "longitude": 144.784,
+    "postcode": 3036,
+    "suburb": "Keilor North, Victoria"
+  },
+  {
+    "latitude": -37.781,
+    "local_government_area": "City of Brimbank",
+    "longitude": 144.832,
+    "postcode": 3020,
+    "suburb": "Sunshine, Victoria"
+  },
+  {
+    "latitude": -37.73611,
+    "local_government_area": "City of Brimbank",
+    "longitude": 144.80389,
+    "postcode": 3021,
+    "suburb": "St Albans, Victoria"
+  },
+  {
+    "latitude": -37.694,
+    "local_government_area": "City of Brimbank",
+    "longitude": 144.79,
+    "postcode": 3038,
+    "suburb": "Keilor Lodge, Victoria"
+  },
+  {
+    "latitude": -37.795,
+    "local_government_area": "City of Brimbank",
+    "longitude": 144.816,
+    "postcode": 3020,
+    "suburb": "Sunshine West, Victoria"
+  },
+  {
+    "latitude": -37.74167,
+    "local_government_area": "City of Brimbank",
+    "longitude": 144.86306,
+    "postcode": 3033,
+    "suburb": "Keilor East, Victoria"
+  },
+  {
+    "latitude": -37.722,
+    "local_government_area": "City of Brimbank",
+    "longitude": 144.803,
+    "postcode": 3038,
+    "suburb": "Keilor Downs, Victoria"
+  },
+  {
+    "latitude": -37.712,
+    "local_government_area": "City of Brimbank",
+    "longitude": 144.831,
+    "postcode": 3036,
+    "suburb": "Keilor, Victoria"
+  },
+  {
+    "latitude": -37.795,
+    "local_government_area": "City of Brimbank",
+    "longitude": 144.766,
+    "postcode": 3030,
+    "suburb": "Derrimut, Victoria"
+  },
+  {
+    "latitude": -37.739,
+    "local_government_area": "City of Brimbank",
+    "longitude": 144.828,
+    "postcode": 3021,
+    "suburb": "Kealba, Victoria"
+  },
+  {
+    "latitude": -37.687,
+    "local_government_area": "City of Brimbank",
+    "longitude": 144.743,
+    "postcode": 3037,
+    "suburb": "Hillside, Victoria"
+  },
+  {
+    "latitude": -37.756,
+    "local_government_area": "City of Brimbank",
+    "longitude": 144.849,
+    "postcode": 3020,
+    "suburb": "Sunshine North, Victoria"
+  },
+  {
+    "latitude": -37.719,
+    "local_government_area": "City of Brimbank",
+    "longitude": 144.777,
+    "postcode": 3037,
+    "suburb": "Delahey, Victoria"
+  },
+  {
+    "latitude": -37.679,
+    "local_government_area": "City of Brimbank",
+    "longitude": 144.762,
+    "postcode": 3037,
+    "suburb": "Calder Park, Victoria"
+  },
+  {
+    "latitude": -37.757,
+    "local_government_area": "City of Brimbank",
+    "longitude": 144.784,
+    "postcode": 3023,
+    "suburb": "Cairnlea, Victoria"
+  },
+  {
+    "latitude": -37.813,
+    "local_government_area": "City of Brimbank",
+    "longitude": 144.841,
+    "postcode": 3012,
+    "suburb": "Brooklyn, Victoria"
+  },
+  {
+    "latitude": -37.785,
+    "local_government_area": "City of Brimbank",
+    "longitude": 144.802,
+    "postcode": 3022,
+    "suburb": "Ardeer, Victoria"
+  },
+  {
+    "latitude": -37.781,
+    "local_government_area": "City of Brimbank",
+    "longitude": 144.8145,
+    "postcode": 3020,
+    "suburb": "Albion, Victoria"
+  },
+  {
+    "latitude": -37.763,
+    "local_government_area": "City of Brimbank",
+    "longitude": 144.767,
+    "postcode": 3023,
+    "suburb": "Deer Park, Victoria"
+  },
+  {
+    "latitude": -37.83,
+    "local_government_area": "City of Boroondara",
+    "longitude": 145.106,
+    "postcode": 3127,
+    "suburb": "Surrey Hills, Victoria"
+  },
+  {
+    "latitude": -37.746,
+    "local_government_area": "City of Brimbank",
+    "longitude": 144.765,
+    "postcode": 3021,
+    "suburb": "Albanvale, Victoria"
+  },
+  {
+    "latitude": -37.80806,
+    "local_government_area": "City of Boroondara",
+    "longitude": 145.11389,
+    "postcode": 3127,
+    "suburb": "Mont Albert North, Victoria"
+  },
+  {
+    "latitude": -37.81611,
+    "local_government_area": "City of Boroondara",
+    "longitude": 145.11,
+    "postcode": 3127,
+    "suburb": "Mont Albert, Victoria"
+  },
+  {
+    "latitude": -37.79694,
+    "local_government_area": "City of Boroondara",
+    "longitude": 145.05694,
+    "postcode": 3102,
+    "suburb": "Kew East, Victoria"
+  },
+  {
+    "latitude": -37.831,
+    "local_government_area": "City of Boroondara",
+    "longitude": 145.05,
+    "postcode": 3123,
+    "suburb": "Hawthorn East, Victoria"
+  },
+  {
+    "latitude": -37.826,
+    "local_government_area": "City of Boroondara",
+    "longitude": 145.034,
+    "postcode": 3122,
+    "suburb": "Hawthorn, Victoria"
+  },
+  {
+    "latitude": -37.856,
+    "local_government_area": "City of Boroondara",
+    "longitude": 145.059,
+    "postcode": 3146,
+    "suburb": "Glen Iris, Victoria"
+  },
+  {
+    "latitude": -37.81306,
+    "local_government_area": "City of Boroondara",
+    "longitude": 145.06778,
+    "postcode": 3103,
+    "suburb": "Deepdene, Victoria"
+  },
+  {
+    "latitude": -37.80528,
+    "local_government_area": "City of Boroondara",
+    "longitude": 145.03583,
+    "postcode": 3101,
+    "suburb": "Kew, Victoria"
+  },
+  {
+    "latitude": -37.79361,
+    "local_government_area": "City of Boroondara",
+    "longitude": 145.08639,
+    "postcode": 3104,
+    "suburb": "Balwyn North, Victoria"
+  },
+  {
+    "latitude": -37.825,
+    "local_government_area": "City of Boroondara",
+    "longitude": 145.078,
+    "postcode": 3126,
+    "suburb": "Canterbury, Victoria"
+  },
+  {
+    "latitude": -37.835,
+    "local_government_area": "City of Boroondara",
+    "longitude": 145.071,
+    "postcode": 3124,
+    "suburb": "Camberwell, Victoria"
+  },
+  {
+    "latitude": -37.95,
+    "local_government_area": "City of Bayside",
+    "longitude": 145.05,
+    "postcode": 3190,
+    "suburb": "Highett, Victoria"
+  },
+  {
+    "latitude": -37.80889,
+    "local_government_area": "City of Boroondara",
+    "longitude": 145.07889,
+    "postcode": 3103,
+    "suburb": "Balwyn, Victoria"
+  },
+  {
+    "latitude": -37.86694,
+    "local_government_area": "City of Boroondara",
+    "longitude": 145.08306,
+    "postcode": 3147,
+    "suburb": "Ashburton, Victoria"
+  },
+  {
+    "latitude": -37.9525,
+    "local_government_area": "City of Bayside",
+    "longitude": 145.012311,
+    "postcode": 3191,
+    "suburb": "Sandringham, Victoria"
+  },
+  {
+    "latitude": -37.941,
+    "local_government_area": "City of Bayside",
+    "longitude": 145.058,
+    "postcode": 3189,
+    "suburb": "Moorabbin, Victoria"
+  },
+  {
+    "latitude": -37.939,
+    "local_government_area": "City of Bayside",
+    "longitude": 145.031,
+    "postcode": 3188,
+    "suburb": "Hampton East, Victoria"
+  },
+  {
+    "latitude": -37.937,
+    "local_government_area": "City of Bayside",
+    "longitude": 145.009,
+    "postcode": 3188,
+    "suburb": "Hampton, Victoria"
+  },
+  {
+    "latitude": -37.899,
+    "local_government_area": "City of Bayside",
+    "longitude": 145.007,
+    "postcode": 3185,
+    "suburb": "Gardenvale, Victoria"
+  },
+  {
+    "latitude": -37.972,
+    "local_government_area": "City of Bayside",
+    "longitude": 145.021,
+    "postcode": 3193,
+    "suburb": "Black Rock, Victoria"
+  },
+  {
+    "latitude": -37.983,
+    "local_government_area": "City of Bayside",
+    "longitude": 145.0434,
+    "postcode": 3193,
+    "suburb": "Beaumaris, Victoria"
+  },
+  {
+    "latitude": -37.967,
+    "local_government_area": "City of Bayside",
+    "longitude": 145.068,
+    "postcode": 3192,
+    "suburb": "Cheltenham, Victoria"
+  },
+  {
+    "latitude": -37.916,
+    "local_government_area": "City of Bayside",
+    "longitude": 145.015,
+    "postcode": 3187,
+    "suburb": "Brighton East, Victoria"
+  },
+  {
+    "latitude": -37.905,
+    "local_government_area": "City of Bayside",
+    "longitude": 144.996,
+    "postcode": 3186,
+    "suburb": "Brighton, Victoria"
+  },
+  {
+    "latitude": -37.726,
+    "local_government_area": "City of Banyule",
+    "longitude": 145.104,
+    "postcode": 3085,
+    "suburb": "Yallambie, Victoria"
+  },
+  {
+    "latitude": -37.7,
+    "local_government_area": "City of Banyule",
+    "longitude": 145.081,
+    "postcode": 3087,
+    "suburb": "Watsonia North, Victoria"
+  },
+  {
+    "latitude": -37.708,
+    "local_government_area": "City of Banyule",
+    "longitude": 145.083,
+    "postcode": 3087,
+    "suburb": "Watsonia, Victoria"
+  },
+  {
+    "latitude": -37.734,
+    "local_government_area": "City of Banyule",
+    "longitude": 145.116,
+    "postcode": 3093,
+    "suburb": "Lower Plenty, Victoria"
+  },
+  {
+    "latitude": -37.731,
+    "local_government_area": "City of Banyule",
+    "longitude": 145.1,
+    "postcode": 3084,
+    "suburb": "Viewbank, Victoria"
+  },
+  {
+    "latitude": -37.686,
+    "local_government_area": "City of Banyule",
+    "longitude": 145.137,
+    "postcode": 3088,
+    "suburb": "St Helena, Victoria"
+  },
+  {
+    "latitude": -37.737,
+    "local_government_area": "City of Banyule",
+    "longitude": 145.069,
+    "postcode": 3084,
+    "suburb": "Rosanna, Victoria"
+  },
+  {
+    "latitude": -37.719,
+    "local_government_area": "City of Banyule",
+    "longitude": 145.126,
+    "postcode": 3094,
+    "suburb": "Montmorency, Victoria"
+  },
+  {
+    "latitude": -37.714,
+    "local_government_area": "City of Banyule",
+    "longitude": 145.066,
+    "postcode": 3085,
+    "suburb": "Macleod, Victoria"
+  },
+  {
+    "latitude": -37.744,
+    "local_government_area": "City of Banyule",
+    "longitude": 145.047,
+    "postcode": 3081,
+    "suburb": "Heidelberg West, Victoria"
+  },
+  {
+    "latitude": -37.742,
+    "local_government_area": "City of Banyule",
+    "longitude": 145.053,
+    "postcode": 3081,
+    "suburb": "Heidelberg Heights, Victoria"
+  },
+  {
+    "latitude": -37.752,
+    "local_government_area": "City of Banyule",
+    "longitude": 145.07,
+    "postcode": 3084,
+    "suburb": "Heidelberg, Victoria"
+  },
+  {
+    "latitude": -37.698,
+    "local_government_area": "City of Banyule",
+    "longitude": 145.144,
+    "postcode": 3095,
+    "suburb": "Eltham North, Victoria"
+  },
+  {
+    "latitude": -37.715,
+    "local_government_area": "City of Banyule",
+    "longitude": 145.158,
+    "postcode": 3095,
+    "suburb": "Eltham, Victoria"
+  },
+  {
+    "latitude": -37.772,
+    "local_government_area": "City of Banyule",
+    "longitude": 145.066,
+    "postcode": 3079,
+    "suburb": "Ivanhoe East, Victoria"
+  },
+  {
+    "latitude": -37.7703,
+    "local_government_area": "City of Banyule",
+    "longitude": 145.0457,
+    "postcode": 3079,
+    "suburb": "Ivanhoe, Victoria"
+  },
+  {
+    "latitude": -37.686,
+    "local_government_area": "City of Banyule",
+    "longitude": 145.117,
+    "postcode": 3088,
+    "suburb": "Greensborough, Victoria"
+  },
+  {
+    "latitude": -37.763,
+    "local_government_area": "City of Banyule",
+    "longitude": 145.066,
+    "postcode": 3084,
+    "suburb": "Eaglemont, Victoria"
+  },
+  {
+    "latitude": -37.695,
+    "local_government_area": "City of Banyule",
+    "longitude": 145.064,
+    "postcode": 3083,
+    "suburb": "Bundoora, Victoria"
+  }
+]
