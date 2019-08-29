@@ -3,7 +3,7 @@ import scrapy
 
 
 class InfoSpider(scrapy.Spider):
-    name = 'info'
+    name = 'victoria'
     allowed_domains = ['en.wikipedia.org/wiki/']
     start_urls = ['https://en.wikipedia.org/wiki/List_of_Melbourne_suburbs']
 
