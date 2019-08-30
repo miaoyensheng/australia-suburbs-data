@@ -5,5 +5,5 @@
 To run scrapy spider, navigate to folder in terminal and execute the following 
 
 ```sh
-scrapy crawl info -o filename.csv
+scrapy crawl (state) -o (filename).csv
 ```
