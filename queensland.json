@@ -1,0 +1,3138 @@
+[
+  {
+    "latitude": "-27.443194",
+    "local_government_area": "City of Brisbane,Central Ward",
+    "longitude": "153.038389",
+    "postcode": "4006",
+    "suburb": "Bowen Hills"
+  },
+  {
+    "latitude": "-27.533",
+    "local_government_area": "City of Brisbane,Chandler Ward",
+    "longitude": "153.100",
+    "postcode": "4122",
+    "suburb": "Mansfield"
+  },
+  {
+    "latitude": "-27.54472",
+    "local_government_area": "City of Brisbane,Chandler Ward",
+    "longitude": "153.12139",
+    "postcode": "4156",
+    "suburb": "Mackenzie"
+  },
+  {
+    "latitude": "-27.532",
+    "local_government_area": "City of Brisbane",
+    "longitude": "153.084",
+    "postcode": "4122",
+    "suburb": "Mount Gravatt East"
+  },
+  {
+    "latitude": "-27.567",
+    "local_government_area": "City of Brisbane,Forest Lake Ward",
+    "longitude": "152.933",
+    "postcode": "4077",
+    "suburb": "Richlands"
+  },
+  {
+    "latitude": "-27.650",
+    "local_government_area": "City of Brisbane,Calamvale Ward",
+    "longitude": "153.033",
+    "postcode": "4115",
+    "suburb": "Parkinson"
+  },
+  {
+    "latitude": "-27.617",
+    "local_government_area": "City of Brisbane,Moorooka Ward",
+    "longitude": "153.017",
+    "postcode": "4110",
+    "suburb": "Pallara"
+  },
+  {
+    "latitude": "-27.5647",
+    "local_government_area": "City of Brisbane,MacGregor Ward",
+    "longitude": "153.0729",
+    "postcode": "4109",
+    "suburb": "MacGregor"
+  },
+  {
+    "latitude": "-27.5508",
+    "local_government_area": "City of Brisbane,Moorooka Ward",
+    "longitude": "153.0533",
+    "postcode": "4111",
+    "suburb": "Nathan"
+  },
+  {
+    "latitude": "-27.535",
+    "local_government_area": "City of Brisbane,Moorooka Ward",
+    "longitude": "153.026",
+    "postcode": "4105",
+    "suburb": "Moorooka"
+  },
+  {
+    "latitude": "-27.5326",
+    "local_government_area": "City of Brisbane,Holland Park Ward",
+    "longitude": "153.0740",
+    "postcode": "4122",
+    "suburb": "Mount Gravatt"
+  },
+  {
+    "latitude": "-27.633",
+    "local_government_area": "Brisbane City Council",
+    "longitude": "153.083",
+    "postcode": "4117",
+    "suburb": "Karawatha"
+  },
+  {
+    "latitude": "-27.633",
+    "local_government_area": "City of Brisbane,Calamvale Ward",
+    "longitude": "153.000",
+    "postcode": "4110",
+    "suburb": "Larapinta"
+  },
+  {
+    "latitude": "-27.517",
+    "local_government_area": "City of Brisbane",
+    "longitude": "153.067",
+    "postcode": "4121",
+    "suburb": "Holland Park West"
+  },
+  {
+    "latitude": "-27.6080",
+    "local_government_area": "City of Brisbane,Runcorn Ward",
+    "longitude": "153.0913",
+    "postcode": "4112",
+    "suburb": "Kuraby"
+  },
+  {
+    "latitude": "-26.9408",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.7669",
+    "postcode": "4514",
+    "suburb": "Woodford"
+  },
+  {
+    "latitude": "-27.39583",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.84389",
+    "postcode": "4520",
+    "suburb": "Wights Mountain"
+  },
+  {
+    "latitude": "-27.34611",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.87556",
+    "postcode": "4520",
+    "suburb": "Yugar"
+  },
+  {
+    "latitude": "-27.03083",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "153.12556",
+    "postcode": "4507",
+    "suburb": "White Patch"
+  },
+  {
+    "latitude": "-26.986",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "153.123",
+    "postcode": "4507",
+    "suburb": "Welsby"
+  },
+  {
+    "latitude": "-27.0472",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.8260",
+    "postcode": "4512",
+    "suburb": "Wamuran Basin"
+  },
+  {
+    "latitude": "-27.035887",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.86274",
+    "postcode": "4512",
+    "suburb": "Wamuran"
+  },
+  {
+    "latitude": "-27.0363",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "153.1002",
+    "postcode": "4510",
+    "suburb": "Toorbul"
+  },
+  {
+    "latitude": "-26.9268",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.7123",
+    "postcode": "4514",
+    "suburb": "Stony Creek"
+  },
+  {
+    "latitude": "-26.90250",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.79472",
+    "postcode": "4514",
+    "suburb": "Stanmore"
+  },
+  {
+    "latitude": "-27.3736",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.8858",
+    "postcode": "4520",
+    "suburb": "Samford Village"
+  },
+  {
+    "latitude": "-27.26194",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.85806",
+    "postcode": "4520",
+    "suburb": "Samsonvale"
+  },
+  {
+    "latitude": "-27.3705",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.8691",
+    "postcode": "4520",
+    "suburb": "Samford Valley"
+  },
+  {
+    "latitude": "-27.204",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.866",
+    "postcode": "4521",
+    "suburb": "Rush Creek"
+  },
+  {
+    "latitude": "-26.967",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.700",
+    "postcode": "4514",
+    "suburb": "Neurum"
+  },
+  {
+    "latitude": "-27.1108",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.8469",
+    "postcode": "4510",
+    "suburb": "Rocksberg"
+  },
+  {
+    "latitude": "-27.1283",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.7994",
+    "postcode": "4521",
+    "suburb": "Ocean View"
+  },
+  {
+    "latitude": "",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "",
+    "postcode": "4520",
+    "suburb": "Mount Samson"
+  },
+  {
+    "latitude": "-27.165667",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.783833",
+    "postcode": "4521",
+    "suburb": "Mount Pleasant"
+  },
+  {
+    "latitude": "-27.397139",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.783694",
+    "postcode": "4520",
+    "suburb": "Mount Nebo"
+  },
+  {
+    "latitude": "-26.861667",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.809722",
+    "postcode": "4514",
+    "suburb": "Mount Delaney"
+  },
+  {
+    "latitude": "-27.14722",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.87333",
+    "postcode": "4506",
+    "suburb": "Moorina"
+  },
+  {
+    "latitude": "-27.07417",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.76972",
+    "postcode": "4521",
+    "suburb": "Mount Mee"
+  },
+  {
+    "latitude": "-27.33472",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.76722",
+    "postcode": "4520",
+    "suburb": "Mount Glorious"
+  },
+  {
+    "latitude": "-27.267",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.800",
+    "postcode": "4521",
+    "suburb": "Laceys Creek"
+  },
+  {
+    "latitude": "-27.033",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "153.072",
+    "postcode": "4510",
+    "suburb": "Meldale"
+  },
+  {
+    "latitude": "-27.267",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.800",
+    "postcode": "4520",
+    "suburb": "Kobble Creek"
+  },
+  {
+    "latitude": "-27.35",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.89",
+    "postcode": "4520",
+    "suburb": "Draper"
+  },
+  {
+    "latitude": "-27.17194",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.82556",
+    "postcode": "4521",
+    "suburb": "King Scrub"
+  },
+  {
+    "latitude": "-27.000",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "153.067",
+    "postcode": "4510",
+    "suburb": "Donnybrook"
+  },
+  {
+    "latitude": "-27.01250",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.77389",
+    "postcode": "4514",
+    "suburb": "Delaneys Creek"
+  },
+  {
+    "latitude": "-27.41028",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.82694",
+    "postcode": "4520",
+    "suburb": "Jollys Lookout"
+  },
+  {
+    "latitude": "-27.379",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.812",
+    "postcode": "4520",
+    "suburb": "Highvale"
+  },
+  {
+    "latitude": "-27.196196",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.824270",
+    "postcode": "4521",
+    "suburb": "Dayboro"
+  },
+  {
+    "latitude": "-26.86167",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.80972",
+    "postcode": "4514",
+    "suburb": "Cedarton"
+  },
+  {
+    "latitude": "-26.87306",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.84139",
+    "postcode": "4514",
+    "suburb": "Commissioners Flat"
+  },
+  {
+    "latitude": "-27.3264",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.8649",
+    "postcode": "4520",
+    "suburb": "Closeburn"
+  },
+  {
+    "latitude": "-27.31",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.88",
+    "postcode": "4500",
+    "suburb": "Clear Mountain"
+  },
+  {
+    "latitude": "-27.33583",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.82194",
+    "postcode": "4520",
+    "suburb": "Cedar Creek"
+  },
+  {
+    "latitude": "-26.9778",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.8020",
+    "postcode": "4514",
+    "suburb": "D'Aguilar"
+  },
+  {
+    "latitude": "-27.07806",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.80444",
+    "postcode": "4521",
+    "suburb": "Campbells Pocket"
+  },
+  {
+    "latitude": "-27.39500",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.87361",
+    "postcode": "4520",
+    "suburb": "Camp Mountain"
+  },
+  {
+    "latitude": "-27.22667",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.82806",
+    "postcode": "4520",
+    "suburb": "Armstrong Creek"
+  },
+  {
+    "latitude": "-27",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.83",
+    "postcode": "4512",
+    "suburb": "Bracalba"
+  },
+  {
+    "latitude": "-26.8442",
+    "local_government_area": "",
+    "longitude": "152.7182",
+    "postcode": "4552",
+    "suburb": "Booroobin"
+  },
+  {
+    "latitude": "-26.82306",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.67944",
+    "postcode": "4514",
+    "suburb": "Bellthorpe"
+  },
+  {
+    "latitude": "-27.08917",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.92667",
+    "postcode": "4510",
+    "suburb": "Bellmere"
+  },
+  {
+    "latitude": "-27.0677",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "153.2033",
+    "postcode": "4507",
+    "suburb": "Woorim"
+  },
+  {
+    "latitude": "-27.2544",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "153.1016",
+    "postcode": "4019",
+    "suburb": "Woody Point"
+  },
+  {
+    "latitude": "-27.2466",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.9211",
+    "postcode": "4503",
+    "suburb": "Whiteside"
+  },
+  {
+    "latitude": "-27.283",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.950",
+    "postcode": "4500",
+    "suburb": "Warner"
+  },
+  {
+    "latitude": "-27.11",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.90",
+    "postcode": "4510",
+    "suburb": "Upper Caboolture"
+  },
+  {
+    "latitude": "-27.30167",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.98889",
+    "postcode": "4500",
+    "suburb": "Strathpine"
+  },
+  {
+    "latitude": "-27.2047",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "153.1102",
+    "postcode": "4020",
+    "suburb": "Scarborough"
+  },
+  {
+    "latitude": "-27.0736",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "153.1233",
+    "postcode": "4511",
+    "suburb": "Sandstone Point"
+  },
+  {
+    "latitude": "-27.21194",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "153.05361",
+    "postcode": "4022",
+    "suburb": "Rothwell"
+  },
+  {
+    "latitude": "-27.264",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.970",
+    "postcode": "4502",
+    "suburb": "Petrie"
+  },
+  {
+    "latitude": "-27.23417",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "153.02056",
+    "postcode": "4509",
+    "suburb": "North Lakes"
+  },
+  {
+    "latitude": "-27.067",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "153.083",
+    "postcode": "4511",
+    "suburb": "Ningi"
+  },
+  {
+    "latitude": "-27.26083",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "153.01139",
+    "postcode": "4503",
+    "suburb": "Murrumba Downs"
+  },
+  {
+    "latitude": "-27.21139",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "153.09472",
+    "postcode": "4020",
+    "suburb": "Newport"
+  },
+  {
+    "latitude": "-27.2022",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.9591",
+    "postcode": "4504",
+    "suburb": "Narangba"
+  },
+  {
+    "latitude": "-27.2258",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "153.1063",
+    "postcode": "4020",
+    "suburb": "Redcliffe"
+  },
+  {
+    "latitude": "-27.59",
+    "local_government_area": "City of Brisbane,Forest Lake Ward",
+    "longitude": "152.9705",
+    "postcode": "4077",
+    "suburb": "Inala"
+  },
+  {
+    "latitude": "-27.10528",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.94750",
+    "postcode": "4506",
+    "suburb": "Morayfield"
+  },
+  {
+    "latitude": "-27.067",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.900",
+    "postcode": "4510",
+    "suburb": "Moodlu"
+  },
+  {
+    "latitude": "-27.25028",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.99639",
+    "postcode": "4503",
+    "suburb": "Kallangur"
+  },
+  {
+    "latitude": "-27.2430",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "153.1025",
+    "postcode": "4019",
+    "suburb": "Margate"
+  },
+  {
+    "latitude": "-27.23833",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "153.02806",
+    "postcode": "4509",
+    "suburb": "Mango Hill"
+  },
+  {
+    "latitude": "-27.2766",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.9770",
+    "postcode": "4501",
+    "suburb": "Lawnton"
+  },
+  {
+    "latitude": "-27.2308",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.969",
+    "postcode": "4503",
+    "suburb": "Kurwongbah"
+  },
+  {
+    "latitude": "-27.2255",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "153.0844",
+    "postcode": "4021",
+    "suburb": "Kippa-Ring"
+  },
+  {
+    "latitude": "-27.086",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "153.111",
+    "postcode": "4511",
+    "suburb": "Godwin Beach"
+  },
+  {
+    "latitude": "-27.39000",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.93306",
+    "postcode": "4055",
+    "suburb": "Ferny Hills"
+  },
+  {
+    "latitude": "-27.39139",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.97194",
+    "postcode": "4053",
+    "suburb": "Everton Hills"
+  },
+  {
+    "latitude": "-27.015",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.947",
+    "postcode": "4516",
+    "suburb": "Elimbah"
+  },
+  {
+    "latitude": "-27.34000",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.93389",
+    "postcode": "4037",
+    "suburb": "Eatons Hill"
+  },
+  {
+    "latitude": "-27.200",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "153.033",
+    "postcode": "4508",
+    "suburb": "Deception Bay"
+  },
+  {
+    "latitude": "-27.2741",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.9383",
+    "postcode": "4500",
+    "suburb": "Joyner"
+  },
+  {
+    "latitude": "-27.267",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "153.033",
+    "postcode": "4503",
+    "suburb": "Griffin"
+  },
+  {
+    "latitude": "-27.233",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.983",
+    "postcode": "4503",
+    "suburb": "Dakabin"
+  },
+  {
+    "latitude": "-27.283",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.917",
+    "postcode": "4500",
+    "suburb": "Cashmere"
+  },
+  {
+    "latitude": "-27.100",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.950",
+    "postcode": "4510",
+    "suburb": "Caboolture South"
+  },
+  {
+    "latitude": "-27.15444",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.97278",
+    "postcode": "4505",
+    "suburb": "Burpengary"
+  },
+  {
+    "latitude": "-27.36972",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.93778",
+    "postcode": "4055",
+    "suburb": "Bunya"
+  },
+  {
+    "latitude": "-27.3238",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.9813",
+    "postcode": "4500",
+    "suburb": "Brendale"
+  },
+  {
+    "latitude": "-27.2463",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "153.0827",
+    "postcode": "4019",
+    "suburb": "Clontarf"
+  },
+  {
+    "latitude": "-27.067",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.967",
+    "postcode": "4510",
+    "suburb": "Caboolture"
+  },
+  {
+    "latitude": "-27.2938",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.9680",
+    "postcode": "4500",
+    "suburb": "Bray Park"
+  },
+  {
+    "latitude": "-27.08139",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "153.16333",
+    "postcode": "4507",
+    "suburb": "Bongaree"
+  },
+  {
+    "latitude": "-27.0628",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "153.1534",
+    "postcode": "4507",
+    "suburb": "Bellara"
+  },
+  {
+    "latitude": "-27.487",
+    "local_government_area": "Redland City",
+    "longitude": "153.239",
+    "postcode": "4160",
+    "suburb": "Wellington Point"
+  },
+  {
+    "latitude": "-27.1294",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "153.0538",
+    "postcode": "4510",
+    "suburb": "Beachmere"
+  },
+  {
+    "latitude": "-27.033",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "153.133",
+    "postcode": "4507",
+    "suburb": "Banksia Beach"
+  },
+  {
+    "latitude": "-27.39750",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.95944",
+    "postcode": "4054",
+    "suburb": "Arana Hills"
+  },
+  {
+    "latitude": "-27.34694",
+    "local_government_area": "Moreton Bay Region",
+    "longitude": "152.96806",
+    "postcode": "4035",
+    "suburb": "Albany Creek"
+  },
+  {
+    "latitude": "-27.550",
+    "local_government_area": "Redland City",
+    "longitude": "153.267",
+    "postcode": "4164",
+    "suburb": "Thornlands"
+  },
+  {
+    "latitude": "-27.5891",
+    "local_government_area": "Redland City",
+    "longitude": "153.2888",
+    "postcode": "4165",
+    "suburb": "Victoria Point"
+  },
+  {
+    "latitude": "-27.483",
+    "local_government_area": "Redland City",
+    "longitude": "153.200",
+    "postcode": "4158",
+    "suburb": "Thorneside"
+  },
+  {
+    "latitude": "-27.5820",
+    "local_government_area": "Redland City",
+    "longitude": "153.1979",
+    "postcode": "4157",
+    "suburb": "Sheldon"
+  },
+  {
+    "latitude": "-27.667",
+    "local_government_area": "Redland City",
+    "longitude": "153.383",
+    "postcode": "4184",
+    "suburb": "Russell Island"
+  },
+  {
+    "latitude": "-27.600",
+    "local_government_area": "Redland City",
+    "longitude": "153.317",
+    "postcode": "4165",
+    "suburb": "Redland Bay"
+  },
+  {
+    "latitude": "-27.433",
+    "local_government_area": "Redland City",
+    "longitude": "153.533",
+    "postcode": "4183",
+    "suburb": "Point Lookout"
+  },
+  {
+    "latitude": "-27.5122",
+    "local_government_area": "Redland City",
+    "longitude": "153.2541",
+    "postcode": "4160",
+    "suburb": "Ormiston"
+  },
+  {
+    "latitude": "-27.583",
+    "local_government_area": "",
+    "longitude": "153.467",
+    "postcode": "",
+    "suburb": "North Stradbroke Island"
+  },
+  {
+    "latitude": "-27.6188",
+    "local_government_area": "Redland City",
+    "longitude": "153.2210",
+    "postcode": "4165",
+    "suburb": "Mount Cotton"
+  },
+  {
+    "latitude": "-27.633",
+    "local_government_area": "",
+    "longitude": "153.383",
+    "postcode": "",
+    "suburb": "Karragarra Island"
+  },
+  {
+    "latitude": "-27.50000",
+    "local_government_area": "Redland City",
+    "longitude": "153.40000",
+    "postcode": "4183",
+    "suburb": "Dunwich"
+  },
+  {
+    "latitude": "-27.567",
+    "local_government_area": "Redland City Council",
+    "longitude": "153.333",
+    "postcode": "4184",
+    "suburb": "Coochiemudlo Island"
+  },
+  {
+    "latitude": "-27.533",
+    "local_government_area": "Redland City",
+    "longitude": "153.267",
+    "postcode": "4163",
+    "suburb": "Cleveland"
+  },
+  {
+    "latitude": "-27.6105",
+    "local_government_area": "",
+    "longitude": "153.3552",
+    "postcode": "4184",
+    "suburb": "Macleay Island"
+  },
+  {
+    "latitude": "-27.633",
+    "local_government_area": "",
+    "longitude": "153.383",
+    "postcode": "",
+    "suburb": "Lamb Island"
+  },
+  {
+    "latitude": "-27.5229944",
+    "local_government_area": "Redland City",
+    "longitude": "153.1927000",
+    "postcode": "4157",
+    "suburb": "Capalaba"
+  },
+  {
+    "latitude": "-27.5002",
+    "local_government_area": "City of Redland",
+    "longitude": "153.2111",
+    "postcode": "4159",
+    "suburb": "Birkdale"
+  },
+  {
+    "latitude": "-27.39778",
+    "local_government_area": "Redland City",
+    "longitude": "153.43889",
+    "postcode": "4183",
+    "suburb": "Amity Point"
+  },
+  {
+    "latitude": "-27.5228",
+    "local_government_area": "Redland City",
+    "longitude": "153.2205",
+    "postcode": "4161",
+    "suburb": "Alexandra Hills"
+  },
+  {
+    "latitude": "-27.767",
+    "local_government_area": "Logan City",
+    "longitude": "153.100",
+    "postcode": "4207",
+    "suburb": "Yarrabilba"
+  },
+  {
+    "latitude": "-27.63333",
+    "local_government_area": "Logan City",
+    "longitude": "153.10000",
+    "postcode": "4114",
+    "suburb": "Woodridge"
+  },
+  {
+    "latitude": "-27.88500",
+    "local_government_area": "Logan City",
+    "longitude": "152.97306",
+    "postcode": "4285",
+    "suburb": "Woodhill"
+  },
+  {
+    "latitude": "-27.78056",
+    "local_government_area": "Logan City",
+    "longitude": "153.17417",
+    "postcode": "4207",
+    "suburb": "Wolffdene"
+  },
+  {
+    "latitude": "-27.750",
+    "local_government_area": "Logan City",
+    "longitude": "153.200",
+    "postcode": "4207",
+    "suburb": "Windaroo"
+  },
+  {
+    "latitude": "-27.7108",
+    "local_government_area": "Logan City",
+    "longitude": "153.1469",
+    "postcode": "4133",
+    "suburb": "Waterford"
+  },
+  {
+    "latitude": "-27.9089",
+    "local_government_area": "Logan City,Scenic Rim",
+    "longitude": "152.978",
+    "postcode": "4285",
+    "suburb": "Veresdale"
+  },
+  {
+    "latitude": "-27.600",
+    "local_government_area": "Logan City",
+    "longitude": "153.100",
+    "postcode": "4119",
+    "suburb": "Underwood"
+  },
+  {
+    "latitude": "-27.667",
+    "local_government_area": "Logan City",
+    "longitude": "153.167",
+    "postcode": "4128",
+    "suburb": "Tanah Merah"
+  },
+  {
+    "latitude": "-27.683",
+    "local_government_area": "Logan City",
+    "longitude": "153.117",
+    "postcode": "4133",
+    "suburb": "Waterford West"
+  },
+  {
+    "latitude": "-27.9201",
+    "local_government_area": "",
+    "longitude": "153.0131",
+    "postcode": "4285",
+    "suburb": "Veresdale Scrub"
+  },
+  {
+    "latitude": "-27.832",
+    "local_government_area": "City of Logan,Scenic Rim Region",
+    "longitude": "152.852",
+    "postcode": "4285",
+    "suburb": "Undullah"
+  },
+  {
+    "latitude": "-27.8816",
+    "local_government_area": "",
+    "longitude": "153.130",
+    "postcode": "4270",
+    "suburb": "Tamborine"
+  },
+  {
+    "latitude": "-27.767",
+    "local_government_area": "Logan City",
+    "longitude": "153.067",
+    "postcode": "4280",
+    "suburb": "Stockleigh"
+  },
+  {
+    "latitude": "-27.650",
+    "local_government_area": "Logan City",
+    "longitude": "153.183",
+    "postcode": "4128",
+    "suburb": "Shailer Park"
+  },
+  {
+    "latitude": "-27.617",
+    "local_government_area": "Logan City",
+    "longitude": "153.133",
+    "postcode": "4127",
+    "suburb": "Springwood"
+  },
+  {
+    "latitude": "-27.600",
+    "local_government_area": "Logan City",
+    "longitude": "153.133",
+    "postcode": "4123",
+    "suburb": "Rochedale South"
+  },
+  {
+    "latitude": "-27.7016",
+    "local_government_area": "Logan City",
+    "longitude": "153.0388",
+    "postcode": "4125",
+    "suburb": "Park Ridge"
+  },
+  {
+    "latitude": "-27.67611",
+    "local_government_area": "Logan City",
+    "longitude": "153.04222",
+    "postcode": "4118",
+    "suburb": "Regents Park"
+  },
+  {
+    "latitude": "-27.600",
+    "local_government_area": "Logan City",
+    "longitude": "153.167",
+    "postcode": "4127",
+    "suburb": "Priestdale"
+  },
+  {
+    "latitude": "-27.79361",
+    "local_government_area": "Logan City",
+    "longitude": "152.99222",
+    "postcode": "4280",
+    "suburb": "South Maclean"
+  },
+  {
+    "latitude": "-27.633",
+    "local_government_area": "Logan City",
+    "longitude": "153.133",
+    "postcode": "4127",
+    "suburb": "Slacks Creek"
+  },
+  {
+    "latitude": "-27.7383",
+    "local_government_area": "Logan City",
+    "longitude": "153.0485",
+    "postcode": "4125",
+    "suburb": "Munruben"
+  },
+  {
+    "latitude": "-27.733",
+    "local_government_area": "Logan City",
+    "longitude": "153.033",
+    "postcode": "4125",
+    "suburb": "Park Ridge South"
+  },
+  {
+    "latitude": "-27.78276",
+    "local_government_area": "City of Logan",
+    "longitude": "153.01013",
+    "postcode": "4280",
+    "suburb": "North Maclean"
+  },
+  {
+    "latitude": "-27.742",
+    "local_government_area": "Logan City",
+    "longitude": "152.947",
+    "postcode": "4124",
+    "suburb": "New Beith"
+  },
+  {
+    "latitude": "-27.8941",
+    "local_government_area": "Logan City",
+    "longitude": "153.0711",
+    "postcode": "4285",
+    "suburb": "Mundoolun"
+  },
+  {
+    "latitude": "-27.717",
+    "local_government_area": "Logan City",
+    "longitude": "153.200",
+    "postcode": "4207",
+    "suburb": "Mount Warren Park"
+  },
+  {
+    "latitude": "-27.667",
+    "local_government_area": "Logan City",
+    "longitude": "153.150",
+    "postcode": "4131",
+    "suburb": "Meadowbrook"
+  },
+  {
+    "latitude": "-27.667",
+    "local_government_area": "Logan City",
+    "longitude": "153.083",
+    "postcode": "4132",
+    "suburb": "Marsden"
+  },
+  {
+    "latitude": "-27.77139",
+    "local_government_area": "Logan City",
+    "longitude": "152.86361",
+    "postcode": "4124",
+    "suburb": "Lyons"
+  },
+  {
+    "latitude": "-27.64222",
+    "local_government_area": "Logan City",
+    "longitude": "153.10694",
+    "postcode": "4114",
+    "suburb": "Logan Central"
+  },
+  {
+    "latitude": "-27.650",
+    "local_government_area": "Logan City",
+    "longitude": "153.117",
+    "postcode": "4114",
+    "suburb": "Kingston"
+  },
+  {
+    "latitude": "-27.8612",
+    "local_government_area": "City of Logan,Scenic Rim Region",
+    "longitude": "152.9109",
+    "postcode": "4285",
+    "suburb": "Kagaru"
+  },
+  {
+    "latitude": "-27.67639",
+    "local_government_area": "Logan City",
+    "longitude": "153.13083",
+    "postcode": "4131",
+    "suburb": "Loganlea"
+  },
+  {
+    "latitude": "-27.68444",
+    "local_government_area": "Logan City",
+    "longitude": "153.18972",
+    "postcode": "4129",
+    "suburb": "Loganholme"
+  },
+  {
+    "latitude": "-27.767",
+    "local_government_area": "Logan City",
+    "longitude": "153.100",
+    "postcode": "4207",
+    "suburb": "Logan Village"
+  },
+  {
+    "latitude": "-27.70333",
+    "local_government_area": "Logan City",
+    "longitude": "153.11083",
+    "postcode": "4133",
+    "suburb": "Logan Reserve"
+  },
+  {
+    "latitude": "-27.833",
+    "local_government_area": "Logan City",
+    "longitude": "153.033",
+    "postcode": "4280",
+    "suburb": "Jimboomba"
+  },
+  {
+    "latitude": "-27.66361",
+    "local_government_area": "Logan City Council",
+    "longitude": "153.00250",
+    "postcode": "4118",
+    "suburb": "Forestdale"
+  },
+  {
+    "latitude": "-27.7030",
+    "local_government_area": "Logan City",
+    "longitude": "153.1688",
+    "postcode": "4207",
+    "suburb": "Edens Landing"
+  },
+  {
+    "latitude": "-27.70306",
+    "local_government_area": "Logan City",
+    "longitude": "153.21944",
+    "postcode": "4207",
+    "suburb": "Eagleby"
+  },
+  {
+    "latitude": "-27.71417",
+    "local_government_area": "Logan City",
+    "longitude": "153.17000",
+    "postcode": "4207",
+    "suburb": "Holmview"
+  },
+  {
+    "latitude": "-27.67499",
+    "local_government_area": "Logan City",
+    "longitude": "153.02902",
+    "postcode": "4118",
+    "suburb": "Hillcrest"
+  },
+  {
+    "latitude": "-27.680",
+    "local_government_area": "Logan City",
+    "longitude": "153.060",
+    "postcode": "4118",
+    "suburb": "Heritage Park"
+  },
+  {
+    "latitude": "-27.710812",
+    "local_government_area": "Logan City",
+    "longitude": "152.977376",
+    "postcode": "4124",
+    "suburb": "Greenbank"
+  },
+  {
+    "latitude": "-27.633",
+    "local_government_area": "Logan City",
+    "longitude": "153.167",
+    "postcode": "4127",
+    "suburb": "Daisy Hill"
+  },
+  {
+    "latitude": "-27.87972",
+    "local_government_area": "Logan City",
+    "longitude": "153.01472",
+    "postcode": "4285",
+    "suburb": "Cedar Vale"
+  },
+  {
+    "latitude": "-27.86000",
+    "local_government_area": "Logan City",
+    "longitude": "152.97417",
+    "postcode": "4285",
+    "suburb": "Cedar Grove"
+  },
+  {
+    "latitude": "-27.82694",
+    "local_government_area": "Logan City,City of Gold Coast",
+    "longitude": "153.18139",
+    "postcode": "4207",
+    "suburb": "Cedar Creek"
+  },
+  {
+    "latitude": "-27.6599",
+    "local_government_area": "Logan City",
+    "longitude": "153.2138",
+    "postcode": "4130",
+    "suburb": "Carbrook"
+  },
+  {
+    "latitude": "-27.688645",
+    "local_government_area": "Logan City",
+    "longitude": "153.090225",
+    "postcode": "4132",
+    "suburb": "Crestmead"
+  },
+  {
+    "latitude": "-27.650",
+    "local_government_area": "Logan City",
+    "longitude": "153.200",
+    "postcode": "4130",
+    "suburb": "Cornubia"
+  },
+  {
+    "latitude": "-27.750",
+    "local_government_area": "Logan City",
+    "longitude": "153.133",
+    "postcode": "4207",
+    "suburb": "Buccan"
+  },
+  {
+    "latitude": "-27.7534",
+    "local_government_area": "Logan City",
+    "longitude": "153.091",
+    "postcode": "4133",
+    "suburb": "Chambers Flat"
+  },
+  {
+    "latitude": "-27.66083",
+    "local_government_area": "Logan City",
+    "longitude": "153.07917",
+    "postcode": "4117",
+    "suburb": "Berrinba"
+  },
+  {
+    "latitude": "-27.75861",
+    "local_government_area": "Logan City",
+    "longitude": "153.17500",
+    "postcode": "4207",
+    "suburb": "Belivah"
+  },
+  {
+    "latitude": "-27.76000",
+    "local_government_area": "Logan City",
+    "longitude": "153.19222",
+    "postcode": "4207",
+    "suburb": "Bannockburn"
+  },
+  {
+    "latitude": "-27.733",
+    "local_government_area": "Logan City",
+    "longitude": "153.167",
+    "postcode": "4207",
+    "suburb": "Bahrs Scrub"
+  },
+  {
+    "latitude": "-27.667",
+    "local_government_area": "Logan City",
+    "longitude": "153.067",
+    "postcode": "4118",
+    "suburb": "Browns Plains"
+  },
+  {
+    "latitude": "-27.684716",
+    "local_government_area": "Logan City",
+    "longitude": "153.017723",
+    "postcode": "4124",
+    "suburb": "Boronia Heights"
+  },
+  {
+    "latitude": "-27.691361",
+    "local_government_area": "Logan City",
+    "longitude": "153.161392",
+    "postcode": "4205",
+    "suburb": "Bethania"
+  },
+  {
+    "latitude": "-27.71611",
+    "local_government_area": "Logan City",
+    "longitude": "153.20194",
+    "postcode": "4207",
+    "suburb": "Beenleigh"
+  },
+  {
+    "latitude": "-27.695",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.8488",
+    "postcode": "4306",
+    "suburb": "White Rock"
+  },
+  {
+    "latitude": "-27.61500",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.53417",
+    "postcode": "4340",
+    "suburb": "The Bluff"
+  },
+  {
+    "latitude": "-27.633",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.633",
+    "postcode": "4306",
+    "suburb": "Thagoona"
+  },
+  {
+    "latitude": "-27.583",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.550",
+    "postcode": "4340",
+    "suburb": "Tallegalla"
+  },
+  {
+    "latitude": "-27.600",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.500",
+    "postcode": "4340",
+    "suburb": "Woolshed"
+  },
+  {
+    "latitude": "-27.683",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.667",
+    "postcode": "4306",
+    "suburb": "Willowbank"
+  },
+  {
+    "latitude": "-27.667",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.817",
+    "postcode": "4306",
+    "suburb": "Swanbank"
+  },
+  {
+    "latitude": "-27.600",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.667",
+    "postcode": "4306",
+    "suburb": "Walloon"
+  },
+  {
+    "latitude": "-27.7069",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.8830",
+    "postcode": "4300",
+    "suburb": "Spring Mountain"
+  },
+  {
+    "latitude": "-27.7216",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.8238",
+    "postcode": "4306",
+    "suburb": "South Ripley"
+  },
+  {
+    "latitude": "-27.533",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.717",
+    "postcode": "4306",
+    "suburb": "Pine Mountain"
+  },
+  {
+    "latitude": "-27.74222",
+    "local_government_area": "",
+    "longitude": "152.66417",
+    "postcode": "4307",
+    "suburb": "Mutdapilly"
+  },
+  {
+    "latitude": "-27.600",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.617",
+    "postcode": "4306",
+    "suburb": "Mount Marrow"
+  },
+  {
+    "latitude": "-27.633",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.583",
+    "postcode": "4340",
+    "suburb": "Rosewood"
+  },
+  {
+    "latitude": "-27.667",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.783",
+    "postcode": "4306",
+    "suburb": "Ripley"
+  },
+  {
+    "latitude": "-27.6603",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.7163",
+    "postcode": "4306",
+    "suburb": "Purga"
+  },
+  {
+    "latitude": "-27.73750",
+    "local_government_area": "",
+    "longitude": "152.61167",
+    "postcode": "4340",
+    "suburb": "Mount Forbes"
+  },
+  {
+    "latitude": "-27.567",
+    "local_government_area": "",
+    "longitude": "152.583",
+    "postcode": "4346",
+    "suburb": "Marburg"
+  },
+  {
+    "latitude": "-27.567",
+    "local_government_area": "",
+    "longitude": "152.633",
+    "postcode": "4306",
+    "suburb": "Haigslea"
+  },
+  {
+    "latitude": "-27.667",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.467",
+    "postcode": "4340",
+    "suburb": "Grandchester"
+  },
+  {
+    "latitude": "-27.73389",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.76750",
+    "postcode": "4306",
+    "suburb": "Goolman"
+  },
+  {
+    "latitude": "-27.650",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.550",
+    "postcode": "4340",
+    "suburb": "Lanefield"
+  },
+  {
+    "latitude": "-27.650",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.650",
+    "postcode": "4340",
+    "suburb": "Jeebropilly"
+  },
+  {
+    "latitude": "-27.55528",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.67472",
+    "postcode": "4306",
+    "suburb": "Ironbark"
+  },
+  {
+    "latitude": "-27.683",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.617",
+    "postcode": "4340",
+    "suburb": "Ebenezer"
+  },
+  {
+    "latitude": "-27.683",
+    "local_government_area": "Ipswich City",
+    "longitude": "152.767",
+    "postcode": "4306",
+    "suburb": "Deebing Heights"
+  },
+  {
+    "latitude": "-27.667",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.500",
+    "postcode": "4340",
+    "suburb": "Calvert"
+  },
+  {
+    "latitude": "-27.6284556",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.5601028",
+    "postcode": "4340",
+    "suburb": "Ashwell"
+  },
+  {
+    "latitude": "-27.633",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.700",
+    "postcode": "4306",
+    "suburb": "Amberley"
+  },
+  {
+    "latitude": "-27.6497",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.7402",
+    "postcode": "4305",
+    "suburb": "Yamanto"
+  },
+  {
+    "latitude": "-27.617",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.733",
+    "postcode": "4305",
+    "suburb": "Wulkuraka"
+  },
+  {
+    "latitude": "-27.617",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.750",
+    "postcode": "4305",
+    "suburb": "West Ipswich"
+  },
+  {
+    "latitude": "-27.600",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.750",
+    "postcode": "4305",
+    "suburb": "Woodend"
+  },
+  {
+    "latitude": "-27.59278",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.84750",
+    "postcode": "4303",
+    "suburb": "Riverview"
+  },
+  {
+    "latitude": "-27.6519",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.8480",
+    "postcode": "4301",
+    "suburb": "Redbank Plains"
+  },
+  {
+    "latitude": "-27.583",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.767",
+    "postcode": "4305",
+    "suburb": "Tivoli"
+  },
+  {
+    "latitude": "-27.683",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.917",
+    "postcode": "4300",
+    "suburb": "Springfield Lakes"
+  },
+  {
+    "latitude": "-27.6855",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.9041",
+    "postcode": "4300",
+    "suburb": "Springfield Central"
+  },
+  {
+    "latitude": "-27.650",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.900",
+    "postcode": "4300",
+    "suburb": "Springfield"
+  },
+  {
+    "latitude": "-27.62278",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.79000",
+    "postcode": "4304",
+    "suburb": "Silkstone"
+  },
+  {
+    "latitude": "-27.617",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.750",
+    "postcode": "4305",
+    "suburb": "Sadliers Crossing"
+  },
+  {
+    "latitude": "-27.6030",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.8733",
+    "postcode": "4301",
+    "suburb": "Redbank"
+  },
+  {
+    "latitude": "-27.633",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.783",
+    "postcode": "4305",
+    "suburb": "Raceview"
+  },
+  {
+    "latitude": "-27.635",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.741",
+    "postcode": "4305",
+    "suburb": "One Mile"
+  },
+  {
+    "latitude": "-27.583",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.783",
+    "postcode": "4305",
+    "suburb": "North Tivoli"
+  },
+  {
+    "latitude": "-27.60139",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.76306",
+    "postcode": "4305",
+    "suburb": "North Ipswich"
+  },
+  {
+    "latitude": "-27.600",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.783",
+    "postcode": "4304",
+    "suburb": "North Booval"
+  },
+  {
+    "latitude": "-27.617",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.783",
+    "postcode": "4305",
+    "suburb": "Newtown"
+  },
+  {
+    "latitude": "-27.617",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.833",
+    "postcode": "4303",
+    "suburb": "New Chum"
+  },
+  {
+    "latitude": "-27.567",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.733",
+    "postcode": "4306",
+    "suburb": "Muirlea"
+  },
+  {
+    "latitude": "-27.600",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.783",
+    "postcode": "4305",
+    "suburb": "Moores Pocket"
+  },
+  {
+    "latitude": "-27.617",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.733",
+    "postcode": "4305",
+    "suburb": "Leichhardt"
+  },
+  {
+    "latitude": "-27.6045",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.7099",
+    "postcode": "4306",
+    "suburb": "Karrabin"
+  },
+  {
+    "latitude": "-27.5586",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.8208",
+    "postcode": "4306",
+    "suburb": "Karalee"
+  },
+  {
+    "latitude": "-27.623",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.760",
+    "postcode": "4305",
+    "suburb": "Ipswich"
+  },
+  {
+    "latitude": "-27.6167",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.9000",
+    "postcode": "4300",
+    "suburb": "Goodna"
+  },
+  {
+    "latitude": "-27.6107472",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.9158389",
+    "postcode": "4300",
+    "suburb": "Gailes"
+  },
+  {
+    "latitude": "-27.650",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.783",
+    "postcode": "4305",
+    "suburb": "Flinders View"
+  },
+  {
+    "latitude": "-27.600",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.833",
+    "postcode": "4304",
+    "suburb": "Ebbw Vale"
+  },
+  {
+    "latitude": "-27.62583",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.77444",
+    "postcode": "4305",
+    "suburb": "Eastern Heights"
+  },
+  {
+    "latitude": "-27.600",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.783",
+    "postcode": "4305",
+    "suburb": "East Ipswich"
+  },
+  {
+    "latitude": "-27.600",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.833",
+    "postcode": "4303",
+    "suburb": "Dinmore"
+  },
+  {
+    "latitude": "-27.617",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.850",
+    "postcode": "4301",
+    "suburb": "Collingwood Park"
+  },
+  {
+    "latitude": "-27.600",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.750",
+    "postcode": "4305",
+    "suburb": "Coalfalls"
+  },
+  {
+    "latitude": "-27.56389",
+    "local_government_area": "",
+    "longitude": "152.77917",
+    "postcode": "4306",
+    "suburb": "Chuwar"
+  },
+  {
+    "latitude": "-27.63528",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.75111",
+    "postcode": "4305",
+    "suburb": "Churchill"
+  },
+  {
+    "latitude": "-27.617",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.933",
+    "postcode": "4300",
+    "suburb": "Carole Park"
+  },
+  {
+    "latitude": "-27.6344917",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.9160389",
+    "postcode": "4300",
+    "suburb": "Camira"
+  },
+  {
+    "latitude": "-27.600",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.817",
+    "postcode": "4304",
+    "suburb": "Bundamba"
+  },
+  {
+    "latitude": "-27.66111",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.89861",
+    "postcode": "4300",
+    "suburb": "Brookwater"
+  },
+  {
+    "latitude": "-27.591",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.735",
+    "postcode": "4305",
+    "suburb": "Brassall"
+  },
+  {
+    "latitude": "-27.6143583",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.7888611",
+    "postcode": "4304",
+    "suburb": "Booval"
+  },
+  {
+    "latitude": "-27.62750",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.80306",
+    "postcode": "4304",
+    "suburb": "Blackstone"
+  },
+  {
+    "latitude": "-27.583",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.700",
+    "postcode": "4306",
+    "suburb": "Blacksoil"
+  },
+  {
+    "latitude": "-27.650",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.883",
+    "postcode": "4300",
+    "suburb": "Bellbird Park"
+  },
+  {
+    "latitude": "-27.6010",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.7718",
+    "postcode": "4305",
+    "suburb": "Basin Pocket"
+  },
+  {
+    "latitude": "-27.567",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.850",
+    "postcode": "4306",
+    "suburb": "Barellan Point"
+  },
+  {
+    "latitude": "-27.66917",
+    "local_government_area": "City of Ipswich",
+    "longitude": "152.89361",
+    "postcode": "4300",
+    "suburb": "Augustine Heights"
+  },
+  {
+    "latitude": "-27.550",
+    "local_government_area": "City of Brisbane",
+    "longitude": "152.917",
+    "postcode": "4074",
+    "suburb": "Westlake"
+  },
+  {
+    "latitude": "-27.41889",
+    "local_government_area": "City of Brisbane,The Gap Ward",
+    "longitude": "152.91889",
+    "postcode": "4055",
+    "suburb": "Upper Kedron"
+  },
+  {
+    "latitude": "-27.47778",
+    "local_government_area": "City of Brisbane,Pullenvale Ward",
+    "longitude": "152.86889",
+    "postcode": "4069",
+    "suburb": "Upper Brookfield"
+  },
+  {
+    "latitude": "-27.487",
+    "local_government_area": "City of Brisbane,Paddington Ward,Walter Taylor Ward",
+    "longitude": "152.984",
+    "postcode": "4066",
+    "suburb": "Toowong"
+  },
+  {
+    "latitude": "-27.44389",
+    "local_government_area": "City of Brisbane,The Gap Ward",
+    "longitude": "152.95306",
+    "postcode": "4061",
+    "suburb": "The Gap"
+  },
+  {
+    "latitude": "-27.4965",
+    "local_government_area": "City of Brisbane,Walter Taylor Ward",
+    "longitude": "152.9792",
+    "postcode": "4068",
+    "suburb": "Taringa"
+  },
+  {
+    "latitude": "-27.500",
+    "local_government_area": "City of Brisbane,Walter Taylor Ward",
+    "longitude": "153.000",
+    "postcode": "4067",
+    "suburb": "St Lucia"
+  },
+  {
+    "latitude": "-27.5406",
+    "local_government_area": "City of Brisbane,Jamboree Ward",
+    "longitude": "152.9519",
+    "postcode": "4073",
+    "suburb": "Sinnamon Park"
+  },
+  {
+    "latitude": "-27.53139",
+    "local_government_area": "City of Brisbane,Tennyson Ward",
+    "longitude": "152.98000",
+    "postcode": "4075",
+    "suburb": "Sherwood"
+  },
+  {
+    "latitude": "-27.551",
+    "local_government_area": "City of Brisbane,Jamboree Ward",
+    "longitude": "152.959",
+    "postcode": "4073",
+    "suburb": "Seventeen Mile Rocks"
+  },
+  {
+    "latitude": "-27.5604",
+    "local_government_area": "City of Brisbane,Jamboree Ward",
+    "longitude": "152.9090",
+    "postcode": "4074",
+    "suburb": "Riverhills"
+  },
+  {
+    "latitude": "-27.5171",
+    "local_government_area": "City of Brisbane,Pullenvale Ward",
+    "longitude": "152.8914",
+    "postcode": "4069",
+    "suburb": "Pullenvale"
+  },
+  {
+    "latitude": "-27.533",
+    "local_government_area": "City of Brisbane,Pullenvale Ward",
+    "longitude": "152.900",
+    "postcode": "4069",
+    "suburb": "Pinjarra Hills"
+  },
+  {
+    "latitude": "-27.56139",
+    "local_government_area": "City of Brisbane,Jamboree Ward,Moorooka Ward,Tennyson Ward",
+    "longitude": "152.97528",
+    "postcode": "4075",
+    "suburb": "Oxley"
+  },
+  {
+    "latitude": "-27.54528",
+    "local_government_area": "City of Brisbane,Jamboree Ward",
+    "longitude": "152.93139",
+    "postcode": "4074",
+    "suburb": "Mount Ommaney"
+  },
+  {
+    "latitude": "-27.550919",
+    "local_government_area": "City of Brisbane",
+    "longitude": "152.807199",
+    "postcode": "4306",
+    "suburb": "Mount Crosby"
+  },
+  {
+    "latitude": "-27.4806",
+    "local_government_area": "City of Brisbane",
+    "longitude": "152.9541",
+    "postcode": "4066",
+    "suburb": "Mount Coot-tha"
+  },
+  {
+    "latitude": "-27.583",
+    "local_government_area": "City of Brisbane,Pullenvale Ward",
+    "longitude": "152.867",
+    "postcode": "4070",
+    "suburb": "Moggill"
+  },
+  {
+    "latitude": "-27.46778",
+    "local_government_area": "City of Brisbane,Paddington Ward",
+    "longitude": "153.00667",
+    "postcode": "4064",
+    "suburb": "Milton"
+  },
+  {
+    "latitude": "-27.550",
+    "local_government_area": "City of Brisbane,Jamboree Ward",
+    "longitude": "152.917",
+    "postcode": "4074",
+    "suburb": "Middle Park"
+  },
+  {
+    "latitude": "-27.5240",
+    "local_government_area": "City of Brisbane,Pullenvale Ward",
+    "longitude": "152.7640",
+    "postcode": "4306",
+    "suburb": "Kholo"
+  },
+  {
+    "latitude": "-27.54250",
+    "local_government_area": "City of Brisbane,Pullenvale Ward",
+    "longitude": "152.82222",
+    "postcode": "4306",
+    "suburb": "Karana Downs"
+  },
+  {
+    "latitude": "-27.5373",
+    "local_government_area": "City of Brisbane,Jamboree Ward",
+    "longitude": "152.9354",
+    "postcode": "4074",
+    "suburb": "Jindalee"
+  },
+  {
+    "latitude": "-27.550",
+    "local_government_area": "City of Brisbane,Jamboree Ward",
+    "longitude": "152.933",
+    "postcode": "4074",
+    "suburb": "Jamboree Heights"
+  },
+  {
+    "latitude": "-27.48361",
+    "local_government_area": "City of Brisbane,Pullenvale Ward,Somerset Region",
+    "longitude": "152.76306",
+    "postcode": "4306",
+    "suburb": "Lake Manchester"
+  },
+  {
+    "latitude": "-27.500",
+    "local_government_area": "City of Brisbane,Pullenvale Ward",
+    "longitude": "152.933",
+    "postcode": "4069",
+    "suburb": "Kenmore Hills"
+  },
+  {
+    "latitude": "-27.5190",
+    "local_government_area": "City of Brisbane,Pullenvale Ward",
+    "longitude": "152.9375",
+    "postcode": "4069",
+    "suburb": "Kenmore"
+  },
+  {
+    "latitude": "-27.4984",
+    "local_government_area": "City of Brisbane,Walter Taylor Ward",
+    "longitude": "152.9712",
+    "postcode": "4068",
+    "suburb": "Indooroopilly"
+  },
+  {
+    "latitude": "-27.5211",
+    "local_government_area": "City of Brisbane,Tennyson Ward",
+    "longitude": "152.9819",
+    "postcode": "4075",
+    "suburb": "Graceville"
+  },
+  {
+    "latitude": "-27.56389",
+    "local_government_area": "",
+    "longitude": "152.77917",
+    "postcode": "4306",
+    "suburb": "Chuwar"
+  },
+  {
+    "latitude": "-27.5163",
+    "local_government_area": "City of Brisbane,Tennyson Ward",
+    "longitude": "152.9759",
+    "postcode": "4068",
+    "suburb": "Chelmer"
+  },
+  {
+    "latitude": "-27.53167",
+    "local_government_area": "City of Brisbane,Walter Taylor Ward",
+    "longitude": "152.96833",
+    "postcode": "4069",
+    "suburb": "Fig Tree Pocket"
+  },
+  {
+    "latitude": "-27.433",
+    "local_government_area": "City of Brisbane",
+    "longitude": "152.867",
+    "postcode": "4520",
+    "suburb": "Enoggera Reservoir"
+  },
+  {
+    "latitude": "-27.428",
+    "local_government_area": "City of Brisbane,Enoggera Ward",
+    "longitude": "152.978",
+    "postcode": "4051",
+    "suburb": "Enoggera"
+  },
+  {
+    "latitude": "-27.533",
+    "local_government_area": "City of Brisbane,Tennyson Ward",
+    "longitude": "152.983",
+    "postcode": "4075",
+    "suburb": "Corinda"
+  },
+  {
+    "latitude": "-27.49944",
+    "local_government_area": "City of Brisbane,Pullenvale Ward,Walter Taylor Ward",
+    "longitude": "152.94944",
+    "postcode": "4069",
+    "suburb": "Chapel Hill"
+  },
+  {
+    "latitude": "-27.4902",
+    "local_government_area": "City of Brisbane,Pullenvale Ward",
+    "longitude": "152.8958",
+    "postcode": "4069",
+    "suburb": "Brookfield"
+  },
+  {
+    "latitude": "-27.567",
+    "local_government_area": "City of Brisbane,Pullenvale Ward",
+    "longitude": "152.883",
+    "postcode": "4070",
+    "suburb": "Bellbowrie"
+  },
+  {
+    "latitude": "-27.4583",
+    "local_government_area": "City of Brisbane,Paddington Ward,The Gap Ward",
+    "longitude": "152.9791",
+    "postcode": "4065",
+    "suburb": "Bardon"
+  },
+  {
+    "latitude": "-27.47556",
+    "local_government_area": "City of Brisbane,Paddington Ward",
+    "longitude": "152.99167",
+    "postcode": "4066",
+    "suburb": "Auchenflower"
+  },
+  {
+    "latitude": "-27.44528",
+    "local_government_area": "City of Brisbane,Enoggera Ward,The Gap Ward",
+    "longitude": "152.99194",
+    "postcode": "4060",
+    "suburb": "Ashgrove"
+  },
+  {
+    "latitude": "-27.54472",
+    "local_government_area": "City of Brisbane,Pullenvale Ward",
+    "longitude": "152.86611",
+    "postcode": "4070",
+    "suburb": "Anstead"
+  },
+  {
+    "latitude": "-27.450",
+    "local_government_area": "City of Brisbane,Wynnum Manly Ward",
+    "longitude": "153.150",
+    "postcode": "4178",
+    "suburb": "Wynnum West"
+  },
+  {
+    "latitude": "-27.4358",
+    "local_government_area": "City of Brisbane,Wynnum Manly Ward",
+    "longitude": "153.1691",
+    "postcode": "4178",
+    "suburb": "Wynnum"
+  },
+  {
+    "latitude": "-27.483",
+    "local_government_area": "City of Brisbane,Chandler Ward,Doboy Ward",
+    "longitude": "153.167",
+    "postcode": "4154",
+    "suburb": "Wakerley"
+  },
+  {
+    "latitude": "-27.467",
+    "local_government_area": "City of Brisbane,Doboy Ward",
+    "longitude": "153.133",
+    "postcode": "4173",
+    "suburb": "Tingalpa"
+  },
+  {
+    "latitude": "-27.4791",
+    "local_government_area": "City of Brisbane,Morningside Ward",
+    "longitude": "153.0749",
+    "postcode": "4170",
+    "suburb": "Seven Hills"
+  },
+  {
+    "latitude": "-27.483",
+    "local_government_area": "City of Brisbane,Chandler Ward",
+    "longitude": "153.183",
+    "postcode": "4154",
+    "suburb": "Ransome"
+  },
+  {
+    "latitude": "-27.3832",
+    "local_government_area": "City of Brisbane,Wynnum Manly Ward",
+    "longitude": "153.1678",
+    "postcode": "4178",
+    "suburb": "Port of Brisbane"
+  },
+  {
+    "latitude": "-27.479168",
+    "local_government_area": "City of Brisbane,Morningside Ward",
+    "longitude": "153.0625",
+    "postcode": "4170",
+    "suburb": "Norman Park"
+  },
+  {
+    "latitude": "-27.453",
+    "local_government_area": "City of Brisbane,Doboy Ward",
+    "longitude": "153.105",
+    "postcode": "4172",
+    "suburb": "Murarrie"
+  },
+  {
+    "latitude": "-27.4625",
+    "local_government_area": "City of Brisbane,Morningside Ward",
+    "longitude": "153.0747",
+    "postcode": "4170",
+    "suburb": "Morningside"
+  },
+  {
+    "latitude": "-27.467",
+    "local_government_area": "City of Brisbane,Doboy Ward",
+    "longitude": "153.167",
+    "postcode": "4179",
+    "suburb": "Manly West"
+  },
+  {
+    "latitude": "-27.450",
+    "local_government_area": "City of Brisbane,Wynnum Manly Ward",
+    "longitude": "153.183",
+    "postcode": "4179",
+    "suburb": "Manly"
+  },
+  {
+    "latitude": "-27.42306",
+    "local_government_area": "City of Brisbane,Wynnum Manly Ward",
+    "longitude": "153.15083",
+    "postcode": "4178",
+    "suburb": "Lytton"
+  },
+  {
+    "latitude": "-27.467",
+    "local_government_area": "City of Brisbane,Wynnum Manly Ward",
+    "longitude": "153.183",
+    "postcode": "4179",
+    "suburb": "Lota"
+  },
+  {
+    "latitude": "-27.45",
+    "local_government_area": "City of Brisbane,Doboy Ward",
+    "longitude": "153.133333",
+    "postcode": "4174",
+    "suburb": "Hemmant"
+  },
+  {
+    "latitude": "-27.467",
+    "local_government_area": "City of Brisbane,Morningside Ward",
+    "longitude": "153.058",
+    "postcode": "4171",
+    "suburb": "Hawthorne"
+  },
+  {
+    "latitude": "-27.167",
+    "local_government_area": "",
+    "longitude": "153.400",
+    "postcode": "",
+    "suburb": "Moreton Island"
+  },
+  {
+    "latitude": "-27.500",
+    "local_government_area": "City of Brisbane,Chandler Ward",
+    "longitude": "153.150",
+    "postcode": "4154",
+    "suburb": "Gumdale"
+  },
+  {
+    "latitude": "-27.51028",
+    "local_government_area": "City of Brisbane,Chandler Ward",
+    "longitude": "153.11250",
+    "postcode": "4152",
+    "suburb": "Carindale"
+  },
+  {
+    "latitude": "-27.50639",
+    "local_government_area": "City of Brisbane,Coorparoo Ward",
+    "longitude": "153.09222",
+    "postcode": "4152",
+    "suburb": "Carina Heights"
+  },
+  {
+    "latitude": "-27.48583",
+    "local_government_area": "City of Brisbane,Doboy Ward",
+    "longitude": "153.10083",
+    "postcode": "4152",
+    "suburb": "Carina"
+  },
+  {
+    "latitude": "-27.4681",
+    "local_government_area": "City of Brisbane,Doboy Ward,Morningside Ward",
+    "longitude": "153.0838",
+    "postcode": "4170",
+    "suburb": "Cannon Hill"
+  },
+  {
+    "latitude": "-27.4929",
+    "local_government_area": "City of Brisbane,Coorparoo Ward,Morningside Ward",
+    "longitude": "153.0785",
+    "postcode": "4152",
+    "suburb": "Camp Hill"
+  },
+  {
+    "latitude": "-27.514",
+    "local_government_area": "City of Brisbane,Chandler Ward",
+    "longitude": "153.156",
+    "postcode": "4155",
+    "suburb": "Chandler"
+  },
+  {
+    "latitude": "-27.50283",
+    "local_government_area": "City of Brisbane,Chandler Ward,Doboy Ward",
+    "longitude": "153.11506",
+    "postcode": "4153",
+    "suburb": "Belmont"
+  },
+  {
+    "latitude": "-27.45389",
+    "local_government_area": "City of Brisbane,Morningside Ward",
+    "longitude": "153.06694",
+    "postcode": "4171",
+    "suburb": "Balmoral"
+  },
+  {
+    "latitude": "-27.51389",
+    "local_government_area": "City of Brisbane,Tennyson Ward",
+    "longitude": "153.01500",
+    "postcode": "4104",
+    "suburb": "Yeronga"
+  },
+  {
+    "latitude": "-27.45000",
+    "local_government_area": "City of Brisbane,Morningside Ward",
+    "longitude": "153.05833",
+    "postcode": "4171",
+    "suburb": "Bulimba"
+  },
+  {
+    "latitude": "-27.53",
+    "local_government_area": "City of Brisbane,Tennyson Ward",
+    "longitude": "153.012",
+    "postcode": "4105",
+    "suburb": "Yeerongpilly"
+  },
+  {
+    "latitude": "-27.550",
+    "local_government_area": "City of Brisbane,MacGregor Ward",
+    "longitude": "153.100",
+    "postcode": "4122",
+    "suburb": "Wishart"
+  },
+  {
+    "latitude": "-27.600",
+    "local_government_area": "City of Brisbane,Moorooka Ward",
+    "longitude": "153.000",
+    "postcode": "4110",
+    "suburb": "Willawong"
+  },
+  {
+    "latitude": "-27.5275",
+    "local_government_area": "City of Brisbane",
+    "longitude": "153.0464",
+    "postcode": "4121",
+    "suburb": "Tarragindi"
+  },
+  {
+    "latitude": "-27.567",
+    "local_government_area": "City of Brisbane",
+    "longitude": "152.933",
+    "postcode": "4074",
+    "suburb": "Sumner"
+  },
+  {
+    "latitude": "-27.5830",
+    "local_government_area": "City of Brisbane,Jamboree Ward",
+    "longitude": "152.9205",
+    "postcode": "4076",
+    "suburb": "Wacol"
+  },
+  {
+    "latitude": "-27.5552",
+    "local_government_area": "City of Brisbane,MacGregor Ward",
+    "longitude": "153.0797",
+    "postcode": "4122",
+    "suburb": "Upper Mount Gravatt"
+  },
+  {
+    "latitude": "-27.533",
+    "local_government_area": "City of Brisbane,Tennyson Ward",
+    "longitude": "153.000",
+    "postcode": "4105",
+    "suburb": "Tennyson"
+  },
+  {
+    "latitude": "-27.600",
+    "local_government_area": "City of Brisbane,Runcorn Ward",
+    "longitude": "153.050",
+    "postcode": "4109",
+    "suburb": "Sunnybank Hills"
+  },
+  {
+    "latitude": "-27.5819",
+    "local_government_area": "City of Brisbane,Runcorn Ward",
+    "longitude": "153.0555",
+    "postcode": "4109",
+    "suburb": "Sunnybank"
+  },
+  {
+    "latitude": "-27.62333",
+    "local_government_area": "City of Brisbane,Calamvale Ward",
+    "longitude": "153.06778",
+    "postcode": "4116",
+    "suburb": "Stretton"
+  },
+  {
+    "latitude": "-27.5406",
+    "local_government_area": "City of Brisbane,Jamboree Ward",
+    "longitude": "152.9519",
+    "postcode": "4073",
+    "suburb": "Sinnamon Park"
+  },
+  {
+    "latitude": "-27.551",
+    "local_government_area": "City of Brisbane,Jamboree Ward",
+    "longitude": "152.959",
+    "postcode": "4073",
+    "suburb": "Seventeen Mile Rocks"
+  },
+  {
+    "latitude": "-27.551",
+    "local_government_area": "City of Brisbane,Moorooka Ward",
+    "longitude": "153.034",
+    "postcode": "4107",
+    "suburb": "Salisbury"
+  },
+  {
+    "latitude": "-27.59889",
+    "local_government_area": "City of Brisbane,Runcorn Ward",
+    "longitude": "153.07722",
+    "postcode": "4113",
+    "suburb": "Runcorn"
+  },
+  {
+    "latitude": "-27.548",
+    "local_government_area": "City of Brisbane,Moorooka Ward",
+    "longitude": "153.005",
+    "postcode": "4106",
+    "suburb": "Rocklea"
+  },
+  {
+    "latitude": "-27.4987",
+    "local_government_area": "City of Brisbane",
+    "longitude": "153.0446",
+    "postcode": "4120",
+    "suburb": "Stones Corner"
+  },
+  {
+    "latitude": "-27.567",
+    "local_government_area": "City of Brisbane,Chandler Ward",
+    "longitude": "153.133",
+    "postcode": "4123",
+    "suburb": "Rochedale"
+  },
+  {
+    "latitude": "-27.5657",
+    "local_government_area": "City of Brisbane,MacGregor Ward",
+    "longitude": "153.0572",
+    "postcode": "4109",
+    "suburb": "Robertson"
+  },
+  {
+    "latitude": "-27.617",
+    "local_government_area": "City of Brisbane,Calamvale Ward,Forest Lake Ward",
+    "longitude": "152.967",
+    "postcode": "4078",
+    "suburb": "Forest Lake"
+  },
+  {
+    "latitude": "-27.5194",
+    "local_government_area": "City of Brisbane,Holland Park Ward",
+    "longitude": "153.0727",
+    "postcode": "4121",
+    "suburb": "Holland Park"
+  },
+  {
+    "latitude": "-27.633",
+    "local_government_area": "City of Brisbane,Calamvale Ward",
+    "longitude": "152.983",
+    "postcode": "4110",
+    "suburb": "Heathwood"
+  },
+  {
+    "latitude": "-27.50528",
+    "local_government_area": "City of Brisbane,Coorparoo Ward",
+    "longitude": "153.04972",
+    "postcode": "4120",
+    "suburb": "Greenslopes"
+  },
+  {
+    "latitude": "-27.50639",
+    "local_government_area": "City of Brisbane,Tennyson Ward",
+    "longitude": "153.02472",
+    "postcode": "4103",
+    "suburb": "Fairfield"
+  },
+  {
+    "latitude": "-27.617",
+    "local_government_area": "City of Brisbane,Jamboree Ward",
+    "longitude": "152.950",
+    "postcode": "4078",
+    "suburb": "Ellen Grove"
+  },
+  {
+    "latitude": "-27.583",
+    "local_government_area": "City of Brisbane,Forest Lake Ward,Moorooka Ward",
+    "longitude": "152.983",
+    "postcode": "4077",
+    "suburb": "Durack"
+  },
+  {
+    "latitude": "-27.494167",
+    "local_government_area": "City of Brisbane,The Gabba Ward",
+    "longitude": "153.025833",
+    "postcode": "4102",
+    "suburb": "Dutton Park"
+  },
+  {
+    "latitude": "-27.567",
+    "local_government_area": "City of Brisbane,Jamboree Ward",
+    "longitude": "152.967",
+    "postcode": "4076",
+    "suburb": "Darra"
+  },
+  {
+    "latitude": "-27.58167",
+    "local_government_area": "City of Brisbane,MacGregor Ward",
+    "longitude": "153.09500",
+    "postcode": "4113",
+    "suburb": "Eight Mile Plains"
+  },
+  {
+    "latitude": "-27.650",
+    "local_government_area": "City of Brisbane,Calamvale Ward",
+    "longitude": "153.050",
+    "postcode": "4116",
+    "suburb": "Drewvale"
+  },
+  {
+    "latitude": "-27.5703",
+    "local_government_area": "City of Brisbane,Moorooka Ward",
+    "longitude": "153.0372",
+    "postcode": "4108",
+    "suburb": "Coopers Plains"
+  },
+  {
+    "latitude": "-27.617",
+    "local_government_area": "City of Brisbane,Forest Lake Ward",
+    "longitude": "152.983",
+    "postcode": "4077",
+    "suburb": "Doolandella"
+  },
+  {
+    "latitude": "-27.583",
+    "local_government_area": "City of Brisbane,Moorooka Ward",
+    "longitude": "153.033",
+    "postcode": "4110",
+    "suburb": "Acacia Ridge"
+  },
+  {
+    "latitude": "-27.56056",
+    "local_government_area": "City of Brisbane,Chandler Ward",
+    "longitude": "153.15667",
+    "postcode": "4156",
+    "suburb": "Burbank"
+  },
+  {
+    "latitude": "-27.56833",
+    "local_government_area": "City of Brisbane,Moorooka Ward",
+    "longitude": "153.02417",
+    "postcode": "4108",
+    "suburb": "Archerfield"
+  },
+  {
+    "latitude": "-27.506925",
+    "local_government_area": "City of Brisbane,Coorparoo Ward,Tennyson Ward",
+    "longitude": "153.034682",
+    "postcode": "4103",
+    "suburb": "Annerley"
+  },
+  {
+    "latitude": "-27.62389",
+    "local_government_area": "City of Brisbane,Calamvale Ward",
+    "longitude": "153.05000",
+    "postcode": "4116",
+    "suburb": "Calamvale"
+  },
+  {
+    "latitude": "-27.6125",
+    "local_government_area": "City of Brisbane,Calamvale Ward",
+    "longitude": "153.0336",
+    "postcode": "4115",
+    "suburb": "Algester"
+  },
+  {
+    "latitude": "-27.35833",
+    "local_government_area": "City of Brisbane,Bracken Ridge Ward,Deagon Ward",
+    "longitude": "153.05000",
+    "postcode": "4034",
+    "suburb": "Zillmere"
+  },
+  {
+    "latitude": "-27.4197",
+    "local_government_area": "City of Brisbane,Hamilton Ward",
+    "longitude": "153.0416",
+    "postcode": "4030",
+    "suburb": "Wooloowin"
+  },
+  {
+    "latitude": "-27.433",
+    "local_government_area": "City of Brisbane,Enoggera Ward,Hamilton Ward,Marchant Ward",
+    "longitude": "153.033",
+    "postcode": "4030",
+    "suburb": "Windsor"
+  },
+  {
+    "latitude": "-27.435",
+    "local_government_area": "City of Brisbane,Enoggera Ward",
+    "longitude": "153.021",
+    "postcode": "4051",
+    "suburb": "Wilston"
+  },
+  {
+    "latitude": "-27.3927",
+    "local_government_area": "City of Brisbane,Northgate Ward",
+    "longitude": "153.0469",
+    "postcode": "4012",
+    "suburb": "Wavell Heights"
+  },
+  {
+    "latitude": "-27.376",
+    "local_government_area": "City of Brisbane,Deagon Ward,Northgate Ward",
+    "longitude": "153.065",
+    "postcode": "4014",
+    "suburb": "Virginia"
+  },
+  {
+    "latitude": "-27.34278",
+    "local_government_area": "City of Brisbane,Deagon Ward",
+    "longitude": "153.04639",
+    "postcode": "4018",
+    "suburb": "Taigum"
+  },
+  {
+    "latitude": "-27.3955",
+    "local_government_area": "City of Brisbane,Marchant Ward,McDowall Ward",
+    "longitude": "153.0105",
+    "postcode": "4053",
+    "suburb": "Stafford Heights"
+  },
+  {
+    "latitude": "-27.4119",
+    "local_government_area": "City of Brisbane,Marchant Ward,McDowall Ward",
+    "longitude": "153.0102",
+    "postcode": "4053",
+    "suburb": "Stafford"
+  },
+  {
+    "latitude": "-27.327",
+    "local_government_area": "City of Brisbane,Deagon Ward",
+    "longitude": "153.079",
+    "postcode": "4017",
+    "suburb": "Shorncliffe"
+  },
+  {
+    "latitude": "-27.3238",
+    "local_government_area": "City of Brisbane,Deagon Ward",
+    "longitude": "153.0710",
+    "postcode": "4017",
+    "suburb": "Sandgate"
+  },
+  {
+    "latitude": "-27.371",
+    "local_government_area": "City of Brisbane,Northgate Ward",
+    "longitude": "153.090",
+    "postcode": "4014",
+    "suburb": "Nudgee"
+  },
+  {
+    "latitude": "-27.49556",
+    "local_government_area": "City of Brisbane,Coorparoo Ward",
+    "longitude": "153.06222",
+    "postcode": "4151",
+    "suburb": "Coorparoo"
+  },
+  {
+    "latitude": "-27.433",
+    "local_government_area": "City of Brisbane,Hamilton Ward",
+    "longitude": "153.117",
+    "postcode": "4008",
+    "suburb": "Pinkenba"
+  },
+  {
+    "latitude": "-27.402",
+    "local_government_area": "City of Brisbane,Hamilton Ward,Northgate Ward",
+    "longitude": "153.066",
+    "postcode": "4012",
+    "suburb": "Nundah"
+  },
+  {
+    "latitude": "-27.354",
+    "local_government_area": "City of Brisbane,Northgate Ward",
+    "longitude": "153.101",
+    "postcode": "4014",
+    "suburb": "Nudgee Beach"
+  },
+  {
+    "latitude": "-27.390",
+    "local_government_area": "City of Brisbane,Northgate Ward",
+    "longitude": "153.066",
+    "postcode": "4013",
+    "suburb": "Northgate"
+  },
+  {
+    "latitude": "-27.400",
+    "local_government_area": "",
+    "longitude": "153.133",
+    "postcode": "",
+    "suburb": "Myrtletown"
+  },
+  {
+    "latitude": "-27.4366",
+    "local_government_area": "City of Brisbane,Enoggera Ward",
+    "longitude": "153.0066",
+    "postcode": "4051",
+    "suburb": "Newmarket"
+  },
+  {
+    "latitude": "-27.423",
+    "local_government_area": "City of Brisbane,Marchant Ward",
+    "longitude": "153.034",
+    "postcode": "4030",
+    "suburb": "Lutwyche"
+  },
+  {
+    "latitude": "-27.41194",
+    "local_government_area": "City of Brisbane,Enoggera Ward,The Gap Ward",
+    "longitude": "152.95500",
+    "postcode": "4054",
+    "suburb": "Keperra"
+  },
+  {
+    "latitude": "-27.407",
+    "local_government_area": "City of Brisbane,Marchant Ward,Northgate Ward",
+    "longitude": "153.034",
+    "postcode": "4031",
+    "suburb": "Kedron"
+  },
+  {
+    "latitude": "-27.4094",
+    "local_government_area": "City of Brisbane,Enoggera Ward",
+    "longitude": "152.9730",
+    "postcode": "4053",
+    "suburb": "Mitchelton"
+  },
+  {
+    "latitude": "-27.38694",
+    "local_government_area": "City of Brisbane,McDowall Ward",
+    "longitude": "152.99000",
+    "postcode": "4053",
+    "suburb": "McDowall"
+  },
+  {
+    "latitude": "-27.4094",
+    "local_government_area": "City of Brisbane",
+    "longitude": "153.0483",
+    "postcode": "",
+    "suburb": "Kalinga"
+  },
+  {
+    "latitude": "-27.418",
+    "local_government_area": "City of Brisbane,Hamilton Ward",
+    "longitude": "153.071",
+    "postcode": "4011",
+    "suburb": "Hendra"
+  },
+  {
+    "latitude": "-27.437",
+    "local_government_area": "City of Brisbane,Hamilton Ward",
+    "longitude": "153.059",
+    "postcode": "4007",
+    "suburb": "Hamilton"
+  },
+  {
+    "latitude": "-27.35000",
+    "local_government_area": "City of Brisbane,Bracken Ridge Ward",
+    "longitude": "153.03333",
+    "postcode": "4018",
+    "suburb": "Fitzgibbon"
+  },
+  {
+    "latitude": "-27.423",
+    "local_government_area": "City of Brisbane,Enoggera Ward,Marchant Ward",
+    "longitude": "153.015",
+    "postcode": "4051",
+    "suburb": "Grange"
+  },
+  {
+    "latitude": "-27.416",
+    "local_government_area": "City of Brisbane,Marchant Ward",
+    "longitude": "153.027",
+    "postcode": "4031",
+    "suburb": "Gordon Park"
+  },
+  {
+    "latitude": "-27.371",
+    "local_government_area": "City of Brisbane,Deagon Ward,Marchant Ward",
+    "longitude": "153.048",
+    "postcode": "4034",
+    "suburb": "Geebung"
+  },
+  {
+    "latitude": "-27.4177",
+    "local_government_area": "City of Brisbane,Enoggera Ward",
+    "longitude": "152.9833",
+    "postcode": "4051",
+    "suburb": "Gaythorne"
+  },
+  {
+    "latitude": "-27.40306",
+    "local_government_area": "City of Brisbane,The Gap Ward",
+    "longitude": "152.92806",
+    "postcode": "4055",
+    "suburb": "Ferny Grove"
+  },
+  {
+    "latitude": "-27.39806",
+    "local_government_area": "City of Brisbane,McDowall Ward",
+    "longitude": "152.98889",
+    "postcode": "4053",
+    "suburb": "Everton Park"
+  },
+  {
+    "latitude": "-27.433",
+    "local_government_area": "City of Brisbane,Hamilton Ward",
+    "longitude": "153.083",
+    "postcode": "4009",
+    "suburb": "Eagle Farm"
+  },
+  {
+    "latitude": "-27.3283",
+    "local_government_area": "City of Brisbane,Deagon Ward",
+    "longitude": "153.0599",
+    "postcode": "4017",
+    "suburb": "Deagon"
+  },
+  {
+    "latitude": "-27.418",
+    "local_government_area": "City of Brisbane,Hamilton Ward",
+    "longitude": "153.057",
+    "postcode": "4011",
+    "suburb": "Clayfield"
+  },
+  {
+    "latitude": "-27.38139",
+    "local_government_area": "City of Brisbane,Marchant Ward,McDowall Ward",
+    "longitude": "153.01222",
+    "postcode": "4032",
+    "suburb": "Chermside West"
+  },
+  {
+    "latitude": "-27.38333",
+    "local_government_area": "City of Brisbane,Marchant Ward,Northgate Ward",
+    "longitude": "153.01667",
+    "postcode": "4032",
+    "suburb": "Chermside"
+  },
+  {
+    "latitude": "-27.3941306",
+    "local_government_area": "City of Brisbane,Hamilton Ward",
+    "longitude": "153.1153389",
+    "postcode": "4008",
+    "suburb": "Brisbane Airport"
+  },
+  {
+    "latitude": "-27.349",
+    "local_government_area": "City of Brisbane,Bracken Ridge Ward",
+    "longitude": "153.018",
+    "postcode": "4034",
+    "suburb": "Carseldine"
+  },
+  {
+    "latitude": "-27.299",
+    "local_government_area": "City of Brisbane,Deagon Ward",
+    "longitude": "153.057",
+    "postcode": "4017",
+    "suburb": "Brighton"
+  },
+  {
+    "latitude": "-27.3525",
+    "local_government_area": "City of Brisbane,McDowall Ward",
+    "longitude": "152.9927",
+    "postcode": "4035",
+    "suburb": "Bridgeman Downs"
+  },
+  {
+    "latitude": "-27.3486",
+    "local_government_area": "City of Brisbane,Deagon Ward",
+    "longitude": "153.0602",
+    "postcode": "4034",
+    "suburb": "Boondall"
+  },
+  {
+    "latitude": "-27.37611",
+    "local_government_area": "City of Brisbane,Northgate Ward",
+    "longitude": "153.07889",
+    "postcode": "4014",
+    "suburb": "Banyo"
+  },
+  {
+    "latitude": "-27.31111",
+    "local_government_area": "City of Brisbane,Bracken Ridge Ward",
+    "longitude": "153.01806",
+    "postcode": "4036",
+    "suburb": "Bald Hills"
+  },
+  {
+    "latitude": "-27.3639",
+    "local_government_area": "City of Brisbane,Bracken Ridge Ward,Marchant Ward,McDowall Ward",
+    "longitude": "153.0157",
+    "postcode": "4034",
+    "suburb": "Aspley"
+  },
+  {
+    "latitude": "-27.43194",
+    "local_government_area": "City of Brisbane,Hamilton Ward",
+    "longitude": "153.04611",
+    "postcode": "4010",
+    "suburb": "Albion"
+  },
+  {
+    "latitude": "-27.42389",
+    "local_government_area": "City of Brisbane,Enoggera Ward,Marchant Ward",
+    "longitude": "153.00500",
+    "postcode": "4051",
+    "suburb": "Alderley"
+  },
+  {
+    "latitude": "-27.49111",
+    "local_government_area": "City of Brisbane,The Gabba Ward",
+    "longitude": "153.03833",
+    "postcode": "4102",
+    "suburb": "Woolloongabba"
+  },
+  {
+    "latitude": "-27.4802",
+    "local_government_area": "City of Brisbane,The Gabba Ward",
+    "longitude": "153.0122",
+    "postcode": "4101",
+    "suburb": "West End"
+  },
+  {
+    "latitude": "-27.46639",
+    "local_government_area": "City of Brisbane,Central Ward",
+    "longitude": "153.05000",
+    "postcode": "4005",
+    "suburb": "Teneriffe"
+  },
+  {
+    "latitude": "-27.460",
+    "local_government_area": "City of Brisbane,Central Ward",
+    "longitude": "153.026",
+    "postcode": "4000",
+    "suburb": "Spring Hill"
+  },
+  {
+    "latitude": "-27.451",
+    "local_government_area": "City of Brisbane,Paddington Ward",
+    "longitude": "153.004",
+    "postcode": "4059",
+    "suburb": "Red Hill"
+  },
+  {
+    "latitude": "-27.467",
+    "local_government_area": "City of Brisbane,Paddington Ward",
+    "longitude": "153.017",
+    "postcode": "4000",
+    "suburb": "Petrie Terrace"
+  },
+  {
+    "latitude": "-27.46167",
+    "local_government_area": "City of Brisbane,Paddington Ward",
+    "longitude": "153.00250",
+    "postcode": "4064",
+    "suburb": "Paddington"
+  },
+  {
+    "latitude": "-27.451",
+    "local_government_area": "City of Brisbane,Central Ward",
+    "longitude": "153.048",
+    "postcode": "4006",
+    "suburb": "Newstead"
+  },
+  {
+    "latitude": "-27.468",
+    "local_government_area": "City of Brisbane,Central Ward",
+    "longitude": "153.048",
+    "postcode": "4005",
+    "suburb": "New Farm"
+  },
+  {
+    "latitude": "-27.450",
+    "local_government_area": "City of Brisbane,Paddington Ward",
+    "longitude": "153.017",
+    "postcode": "4059",
+    "suburb": "Kelvin Grove"
+  },
+  {
+    "latitude": "-27.487",
+    "local_government_area": "City of Brisbane,The Gabba Ward",
+    "longitude": "153.019",
+    "postcode": "4101",
+    "suburb": "Highgate Hill"
+  },
+  {
+    "latitude": "-27.4565",
+    "local_government_area": "City of Brisbane,Central Ward",
+    "longitude": "153.0345",
+    "postcode": "4006",
+    "suburb": "Fortitude Valley"
+  },
+  {
+    "latitude": "-27.467",
+    "local_government_area": "City of Brisbane,The Gabba Ward",
+    "longitude": "153.033",
+    "postcode": "4169",
+    "suburb": "Kangaroo Point"
+  },
+  {
+    "latitude": "-27.482",
+    "local_government_area": "City of Brisbane,The Gabba Ward",
+    "longitude": "153.051",
+    "postcode": "4169",
+    "suburb": "East Brisbane"
+  },
+  {
+    "latitude": "-27.448",
+    "local_government_area": "City of Brisbane,Central Ward",
+    "longitude": "153.023",
+    "postcode": "4006",
+    "suburb": "Herston"
+  },
+  {
+    "latitude": "-27.46251",
+    "local_government_area": "City of Brisbane,Central Ward",
+    "longitude": "153.02432",
+    "postcode": "4000",
+    "suburb": "Brisbane"
+  },
+  {
+    "latitude": "-27.319",
+    "local_government_area": "City of Brisbane,Bracken Ridge Ward",
+    "longitude": "153.034",
+    "postcode": "4017",
+    "suburb": "Bracken Ridge"
+  },
+  {
+    "latitude": "-27.47665",
+    "local_government_area": "City of Brisbane,The Gabba Ward",
+    "longitude": "153.01667",
+    "postcode": "4101",
+    "suburb": "South Brisbane"
+  },
+  {
+    "latitude": "-27.43194",
+    "local_government_area": "City of Brisbane,Hamilton Ward",
+    "longitude": "153.06500",
+    "postcode": "4007",
+    "suburb": "Ascot"
+  }
+]
